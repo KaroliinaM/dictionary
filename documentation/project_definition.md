@@ -1,13 +1,13 @@
-#Definition of the project
+# Definition of the project
 
-##Dictionary
+## Dictionary
 
-###Subject
+### Subject
 This will be a Finnish-Russian-English Dictionary
 
-###users
+### Users
 admins and normal users
 
-###admin features
+### Admin features
 
-###user features
+### User features

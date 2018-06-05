@@ -1,17 +1,30 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import Word from './components/word'
+import Game from './components/game'
+import axios from 'axios'
 
 
 class App extends React.Component {
   constructor(props) {
     super(props)
     this.state = {
-      words: props.words,
+      words: [],
       filter: '',
       translateFrom: 'finnish',
-      translateTo: 'russian'
+      translateTo: 'russian',
+      finnish: '',
+      english: '',
+      russian: '',
+      description: ''
     }
+  }
+  componentDidMount () {
+    axios
+      .get('http://localhost:3001/words')
+      .then(response => {
+        this.setState({words:response.data})
+      })
   }
   handleChange = (event) => {
     console.log(event.target.value)
@@ -36,12 +49,47 @@ class App extends React.Component {
     this.setState({translateTo: tmp2})
     this.setState({translateFrom: tmp1})
   }
+  addWord = (event) => {
+    event.preventDefault()
+    const wordObject = {
+      finnish: this.state.finnish,
+      english: this.state.english,
+      russian: this.state.russian,
+      description: this.state.description,
+      id: this.state.words.length +1
+    }
+    axios
+      .post('http://localhost:3001/words', wordObject)
+      .then(response => {
+        this.setState({
+          words:this.state.words.concat(wordObject),
+          finnish: '',
+          russian: '',
+          english: '',
+          description: ''
+        })
+      })
+  }
+
+  handleFieldChange = (event) => {
+    console.log('hei')
+    this.setState({[event.target.name]:event.target.value})
+  }
 
 
   render() {
     const shownWords= this.filterWords()
     return (
       <div>
+        <div>
+        </div>
+          <form onSubmit={this.addWord}>
+            russian <input value={this.state.russian} onChange={this.handleFieldChange} name="russian" /><br />
+            finnish <input value={this.state.finnish} onChange={this.handleFieldChange} name="finnish" /><br />
+            english <input value={this.state.english} onChange={this.handleFieldChange} name="english" /><br />
+            description <input value={this.state.description} onChange={this.handleFieldChange} name="description" /><br />
+            <button type="submit">insert word</button>
+          </form>
         <div>
           <p>finnish
           <button onClick={this.switchLanguage}> language change </button>
@@ -53,6 +101,7 @@ class App extends React.Component {
             {shownWords.map(word => <tr key={word.id}><td><Word word={word} language={this.state.translateFrom} /></td><td><Word word={word} language={this.state.translateTo} /></td></tr>)}
           </tbody>
         </table>
+        <Game words={this.state.words} />
       </div>
     )
   }

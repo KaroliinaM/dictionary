@@ -1,0 +1,75 @@
+{
+  "words": [
+    {
+      "id": 1,
+      "finnish": "kissa",
+      "english": "a cat",
+      "russian": "кошка",
+      "description": "a feline"
+    },
+    {
+      "id": 2,
+      "finnish": "koira",
+      "english": "a dog",
+      "russian": "собака",
+      "description": "a hound"
+    },
+    {
+      "finnish": "kesä",
+      "english": "summer",
+      "russian": "лето",
+      "description": "time of year",
+      "id": 3
+    },
+    {
+      "finnish": "ulkopuolella",
+      "english": "outside",
+      "russian": "вне",
+      "description": "",
+      "id": 4
+    },
+    {
+      "finnish": "avulla",
+      "english": "",
+      "russian": "путём",
+      "description": "",
+      "id": 5
+    },
+    {
+      "finnish": "sisäpuolella",
+      "english": "",
+      "russian": "внутри",
+      "description": "",
+      "id": 6
+    },
+    {
+      "finnish": "keskellä",
+      "english": "",
+      "russian": "посреди",
+      "description": "",
+      "id": 7
+    },
+    {
+      "finnish": "pitkin",
+      "english": "",
+      "russian": "вдоль",
+      "description": "",
+      "id": 8
+    }
+  ],
+  "memorygame": [{
+    "user" : 1,
+    "mwords" : [
+      {
+        "id" : 1,
+        "guess" : 0
+      }
+    ]
+
+    }],
+  "users" : [{
+    "id": 1,
+    "name" : "Karoliina"
+  }
+  ]
+}

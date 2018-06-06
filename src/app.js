@@ -6,8 +6,8 @@ import axios from 'axios'
 
 
 class App extends React.Component {
-  constructor(props) {
-    super(props)
+  constructor() {
+    super()
     this.state = {
       words: [],
       filter: '',
@@ -101,7 +101,8 @@ class App extends React.Component {
             {shownWords.map(word => <tr key={word.id}><td><Word word={word} language={this.state.translateFrom} /></td><td><Word word={word} language={this.state.translateTo} /></td></tr>)}
           </tbody>
         </table>
-        <Game words={this.state.words} />
+        <br />
+        <Game words={shownWords} />
       </div>
     )
   }

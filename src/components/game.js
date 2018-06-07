@@ -99,8 +99,7 @@ class Game extends React.Component {
         <input value={this.state.translation} onChange={this.changeField} />
         <button type='submit'>translate</button>
         </form>
-        <p>{this.state.points/this.state.total}</p>
-        <p>{this.state.check}</p>
+        <p>{this.state.points/this.state.total}  |  {this.state.total} | {this.state.check} </p>
 
       </div>
     )

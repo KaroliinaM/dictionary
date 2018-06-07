@@ -5,96 +5,86 @@ class Game extends React.Component {
   constructor(props) {
     super(props)
       this.state = {
-        user: '',
-        mwords: [],
-        words: [],
         original: '',
         translation: '',
-        done: 0,
-        next: '',
-        points: 0
-
+        points: 0,
+        total: 0,
+        wordList:[],
+        listOrder:[],
+        next: 0,
+        check:''
       }
   }
-  componentDidMount () {
-    axios
-      .get('http://localhost:3001/memorygame')
-      .then(response => {
-
-        const tdata=response.data
-        console.log(tdata)
-
-        this.setState({
-          user: tdata[0].user,
-          mwords:tdata[0].mwords
-        })
+  startTranslation=()=> {
+      const wlist=this.props.words
+      let orderer=[]
+      wlist.map(w =>{
+        w.guess=0
+        orderer.push({order: w.id-1, id: w.id})
       })
+
+      this.setState({wordList: wlist, listOrder: orderer, original: wlist[0].finnish})
   }
-  newWord=()=> {
-    if(this.state.done===0){
-      if(this.state.next<this.props.words.length-1) {
-        this.setState({next: this.state.next+1})
-      } else {
-        this.setState({next: 0, done:1})
-
-      }
-      if(this.state.next===this.props.words.length-1){
-        this.setState({original: this.props.words[0].finnish})
-      } else {
-        this.setState({original: this.props.words[this.state.next+1].finnish})
-      }
-    }
-
+  sortOrder=()=> {
+    const wlist=this.state.wordList
+    wlist.sort(function (a, b) {
+      return a.guess - b.guess;
+    })
+    let order=0
+    let orderer=[]
+    wlist.map(word => {
+      orderer.push({order: order, id: word.id})
+      order=order+1
+    })
+    console.log('lista')
+    console.log(orderer)
+    this.setState({listOrder: orderer})
   }
-
-  startTranslation=(event)=>{
-    event.preventDefault()
-    if(this.props.words!=null){
-      let sett=0
-      if(this.props.words.length>this.state.mwords.length){
-        this.setState({next: this.state.mwords.length})
-        sett=this.state.mwords.length
-        console.log('h')
-        let set=[]
-        for(let i=sett; i<this.props.words.length; i++) {
-          console.log(i)
-          const noob={id: i, guess: 0}
-          set.push(noob)
-          console.log(set)
-        }
-        this.setState({mwords: this.state.mwords.concat(set)})
-      }
-      else {
-        this.setState({next: 0, done: 1})
-
-      }
-      this.setState({original: this.props.words[sett].finnish})
-
-    }
+  findWord=(i)=> {
+    const index=this.state.listOrder.find(o=>o.order===i)
+    const word=this.state.wordList.find(w => w.id===index.id)
+    return word
   }
   checkTranslation=(event)=>{
     event.preventDefault()
-    console.log('hei')
-    if(this.state.translation===this.props.words[this.state.next].russian) {
+    const word=this.findWord(this.state.next)
+    if(word.russian===this.state.translation) {
       console.log('success')
-      console.log(this.state.next)
-      this.setState({points: this.state.points+1})
+      let guessed={...word}
+      guessed.guess=guessed.guess+1
+      this.setState({
+        wordList: this.state.wordList.map(w => w.id!== word.id? w : guessed ),
+        points: this.state.points +1 ,
+        check: ''
+      })
+      console.log(guessed)
     } else {
-      console.log(this.props.words[this.state.next].russian)
+      console.log('fail')
+      this.setState({check: word.finnish + " " + word.russian})
     }
-    this.setState({translation: ''})
-    this.newWord()
-
+    let n=0
+    if(this.state.next<this.state.wordList.length/2) {
+      n=this.state.next+1
+    } else {
+      this.sortOrder()
+    }
+    const newWord=this.findWord(n)
+    this.setState({
+      original: newWord.finnish,
+      translation: "",
+      next: n,
+      total: this.state.total+1
+    })
   }
-  changeField=(event)=> {
+  changeField=(event)=>{
     this.setState({translation: event.target.value})
   }
 
 
+
+
   render() {
-    console.log(this.state.mwords.length)
-    console.log(this.props.words.length)
-    console.log(this.state.original)
+    //console.log(this.state.wordList)
 
 
 
@@ -109,8 +99,8 @@ class Game extends React.Component {
         <input value={this.state.translation} onChange={this.changeField} />
         <button type='submit'>translate</button>
         </form>
-        <p>{this.state.points}</p>
-        {console.log(this.state.mwords)}
+        <p>{this.state.points/this.state.total}</p>
+        <p>{this.state.check}</p>
 
       </div>
     )

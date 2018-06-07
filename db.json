@@ -55,21 +55,268 @@
       "russian": "вдоль",
       "description": "",
       "id": 8
+    },
+    {
+      "finnish": "hajaantua",
+      "english": "",
+      "russian": "рассеяться",
+      "description": "",
+      "id": 9
+    },
+    {
+      "finnish": "yhdistää",
+      "english": "",
+      "russian": "сводить",
+      "description": "",
+      "id": 10
+    },
+    {
+      "finnish": "kiintymys",
+      "english": "",
+      "russian": "привязанность",
+      "description": "",
+      "id": 11
+    },
+    {
+      "finnish": "arvo",
+      "english": "",
+      "russian": "достоинство",
+      "description": "",
+      "id": 12
+    },
+    {
+      "finnish": "käyttää",
+      "english": "",
+      "russian": "воспользоваться",
+      "description": "",
+      "id": 13
+    },
+    {
+      "finnish": "ärsyke",
+      "english": "",
+      "russian": "раздражитель",
+      "description": "",
+      "id": 14
+    },
+    {
+      "finnish": "muuttumaton",
+      "english": "",
+      "russian": "неизменный",
+      "description": "",
+      "id": 15
+    },
+    {
+      "finnish": "korruptoitunut",
+      "english": "",
+      "russian": "продажный",
+      "description": "",
+      "id": 16
+    },
+    {
+      "finnish": "tumma",
+      "english": "",
+      "russian": "смуглый",
+      "description": "",
+      "id": 17
+    },
+    {
+      "finnish": "viehättävyys",
+      "english": "",
+      "russian": "прелесть",
+      "description": "",
+      "id": 18
+    },
+    {
+      "finnish": "lievittää",
+      "english": "",
+      "russian": "смягчать",
+      "description": "",
+      "id": 19
+    },
+    {
+      "finnish": "ankeus",
+      "english": "",
+      "russian": "тяжесть",
+      "description": "",
+      "id": 20
+    },
+    {
+      "finnish": "kaukana",
+      "english": "",
+      "russian": "вдали",
+      "description": "",
+      "id": 21
+    },
+    {
+      "finnish": "väärinkäsitys",
+      "english": "",
+      "russian": "недоразумение",
+      "description": "",
+      "id": 22
+    },
+    {
+      "finnish": "kätkeä",
+      "english": "",
+      "russian": "прятать",
+      "description": "",
+      "id": 23
+    },
+    {
+      "finnish": "kaula",
+      "english": "",
+      "russian": "шея",
+      "description": "",
+      "id": 24
+    },
+    {
+      "finnish": "ruskea",
+      "english": "",
+      "russian": "коричневый",
+      "description": "",
+      "id": 25
+    },
+    {
+      "finnish": "kaarre",
+      "english": "",
+      "russian": "изгиб",
+      "description": "",
+      "id": 26
+    },
+    {
+      "finnish": "säädytön",
+      "english": "",
+      "russian": "непристойный",
+      "description": "",
+      "id": 27
+    },
+    {
+      "finnish": "ankkuri",
+      "english": "",
+      "russian": "якорь",
+      "description": "",
+      "id": 28
+    },
+    {
+      "finnish": "päiväys",
+      "english": "",
+      "russian": "дата",
+      "description": "",
+      "id": 29
+    },
+    {
+      "finnish": "hiipiä",
+      "english": "",
+      "russian": "сползать",
+      "description": "",
+      "id": 30
+    },
+    {
+      "finnish": "koskettaa",
+      "english": "",
+      "russian": "затронуть",
+      "description": "",
+      "id": 31
+    },
+    {
+      "finnish": "muisto",
+      "english": "",
+      "russian": "память",
+      "description": "",
+      "id": 32
+    },
+    {
+      "finnish": "pakahduttava",
+      "english": "",
+      "russian": "удушливый",
+      "description": "",
+      "id": 33
+    },
+    {
+      "finnish": "kukkapenkki",
+      "english": "",
+      "russian": "клумба",
+      "description": "",
+      "id": 34
+    },
+    {
+      "finnish": "tavu",
+      "english": "",
+      "russian": "слог",
+      "description": "",
+      "id": 35
+    },
+    {
+      "finnish": "tulla toimeen",
+      "english": "",
+      "russian": "обходиться",
+      "description": "",
+      "id": 36
+    },
+    {
+      "finnish": "välinpitämättömästi",
+      "english": "",
+      "russian": "безразлично",
+      "description": "",
+      "id": 37
+    },
+    {
+      "finnish": "hohto",
+      "english": "",
+      "russian": "чутья",
+      "description": "",
+      "id": 38
+    },
+    {
+      "finnish": "puhe",
+      "english": "",
+      "russian": "речь",
+      "description": "",
+      "id": 39
+    },
+    {
+      "finnish": "kaima",
+      "english": "",
+      "russian": "тёзка",
+      "description": "",
+      "id": 40
+    },
+    {
+      "finnish": "kaima",
+      "english": "",
+      "russian": "богиня",
+      "description": "",
+      "id": 41
+    },
+    {
+      "finnish": "",
+      "english": "",
+      "russian": "безголовый",
+      "description": "",
+      "id": 42
+    },
+    {
+      "finnish": "siivekäs",
+      "english": "",
+      "russian": "крылатый",
+      "description": "",
+      "id": 43
     }
   ],
-  "memorygame": [{
-    "user" : 1,
-    "mwords" : [
-      {
-        "id" : 1,
-        "guess" : 0
-      }
-    ]
-
-    }],
-  "users" : [{
-    "id": 1,
-    "name" : "Karoliina"
-  }
+  "memorygame": [
+    {
+      "user": 1,
+      "mwords": [
+        {
+          "id": 1,
+          "guess": 0
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Karoliina"
+    }
   ]
 }

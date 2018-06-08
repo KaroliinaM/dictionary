@@ -12,16 +12,31 @@ class Game extends React.Component {
         wordList:[],
         listOrder:[],
         next: 0,
-        check:''
+        check:'',
+        savedGuesses:[{id: 1, guess: 2}, {id: 2, guess: 1}]
       }
+  }
+  componentDidMount() {
+    axios
+    .get('http://localhost:3001/memorygame')
+    .then(response=>{
+
+      console.log(response.data[0].mwords)
+      this.setState({savedGuesses: response.data[0].mwords})
+    })
   }
   startTranslation=()=> {
       const wlist=this.props.words
       let orderer=[]
       wlist.map(w =>{
-        w.guess=0
+        const wo=this.state.savedGuesses.find(g => g.id===w.id)
+        wo === undefined?
+        w.guess=0 :
+        w.guess= wo.guess
+
         orderer.push({order: w.id-1, id: w.id})
       })
+      console.log(wlist)
 
       this.setState({wordList: wlist, listOrder: orderer, original: wlist[0].finnish})
   }
@@ -79,6 +94,22 @@ class Game extends React.Component {
   changeField=(event)=>{
     this.setState({translation: event.target.value})
   }
+  saveProgress=(event)=>{
+    event.preventDefault()
+    const p=[]
+    this.state.wordList.map(w=>p.push({id: w.id, guess: w.guess}))
+    console.log(p)
+    const saving={
+      id : 1,
+      mwords: p
+    }
+    axios
+    .put('http://localhost:3001/memorygame/1', saving)
+    .then(response => {
+      console.log('tallennettu')
+    })
+
+  }
 
 
 
@@ -92,7 +123,9 @@ class Game extends React.Component {
     return (
 
       <div>
+      {console.log(this.state.wordList)}
       <button onClick={this.startTranslation}> aloita</button>
+      <button onClick={this.saveProgress}>tallenna</button>
 
         <form onSubmit={this.checkTranslation}>
         <input value={this.state.original} />

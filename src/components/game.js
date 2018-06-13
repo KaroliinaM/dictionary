@@ -6,6 +6,7 @@ class Game extends React.Component {
     super(props)
       this.state = {
         original: '',
+        thisWord: null,
         translation: '',
         points: 0,
         total: 0,
@@ -13,7 +14,8 @@ class Game extends React.Component {
         listOrder:[],
         next: 0,
         check:'',
-        savedGuesses:[{id: 1, guess: 2}, {id: 2, guess: 1}]
+        savedGuesses:[{id: 1, guess: 2}, {id: 2, guess: 1}],
+        scrambled: 1
       }
   }
   componentDidMount() {
@@ -38,7 +40,7 @@ class Game extends React.Component {
       })
       console.log(wlist)
 
-      this.setState({wordList: wlist, listOrder: orderer, original: wlist[0].finnish})
+      this.setState({wordList: wlist, listOrder: orderer, original: wlist[0].finnish, thisWord: wlist[0]})
   }
   sortOrder=()=> {
     const wlist=this.state.wordList
@@ -62,7 +64,7 @@ class Game extends React.Component {
   }
   checkTranslation=(event)=>{
     event.preventDefault()
-    const word=this.findWord(this.state.next)
+    const word=this.state.thisWord
     if(word.russian===this.state.translation) {
       console.log('success')
       let guessed={...word}
@@ -78,14 +80,16 @@ class Game extends React.Component {
       this.setState({check: word.finnish + " " + word.russian})
     }
     let n=0
-    if(this.state.next<this.state.wordList.length/2) {
+    if(this.state.next<this.state.wordList.length/2 && this.state.scrambled===0) {
       n=this.state.next+1
     } else {
       this.sortOrder()
+      this.setState({scrambled: 0})
     }
     const newWord=this.findWord(n)
     this.setState({
       original: newWord.finnish,
+      thisWord: newWord,
       translation: "",
       next: n,
       total: this.state.total+1
@@ -110,8 +114,6 @@ class Game extends React.Component {
     })
 
   }
-
-
 
 
   render() {

@@ -16,7 +16,8 @@ class App extends React.Component {
       finnish: '',
       english: '',
       russian: '',
-      description: ''
+      description: '',
+      game: 0
     }
   }
   componentDidMount () {
@@ -75,14 +76,24 @@ class App extends React.Component {
     console.log('hei')
     this.setState({[event.target.name]:event.target.value})
   }
+  gameSwitch=(event)=> {
+    event.preventDefault()
+    console.log('switched')
+    const val=this.state.game===0 ? 1 : 0
+    this.setState({game: val})
+  }
+
 
 
   render() {
     const shownWords= this.filterWords()
+    const buttonText = this.state.game===0 ? 'show game' : 'show dictionary'
     return (
       <div>
         <div>
+        <p><button onClick={this.gameSwitch}>{buttonText}</button></p>
         </div>
+          <div>
           <form onSubmit={this.addWord}>
             russian <input value={this.state.russian} onChange={this.handleFieldChange} name="russian" /><br />
             finnish <input value={this.state.finnish} onChange={this.handleFieldChange} name="finnish" /><br />
@@ -90,11 +101,9 @@ class App extends React.Component {
             description <input value={this.state.description} onChange={this.handleFieldChange} name="description" /><br />
             <button type="submit">insert word</button>
           </form>
-        <div>
           <p>finnish
           <button onClick={this.switchLanguage}> language change </button>
            russian</p>
-        </div>
         <input value={this.state.filter} onChange={this.handleChange} />
         <table>
           <tbody>
@@ -102,7 +111,12 @@ class App extends React.Component {
           </tbody>
         </table>
         <br />
+        </div>
+
+
+        <div>
         <Game words={shownWords} />
+        </div>
       </div>
     )
   }

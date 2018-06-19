@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import Word from './components/word'
+import Testi from './components/testi'
 import Game from './components/game'
 import axios from 'axios'
 
@@ -88,9 +89,11 @@ class App extends React.Component {
   render() {
     const shownWords= this.filterWords()
     const buttonText = this.state.game===0 ? 'show game' : 'show dictionary'
+    const testiSana={finnish: 'testi', english:'test'}
     return (
       <div>
         <div>
+        <Testi word={testiSana} />
         <p><button onClick={this.gameSwitch}>{buttonText}</button></p>
         </div>
           <div>

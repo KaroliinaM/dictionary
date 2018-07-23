@@ -5,7 +5,6 @@ import Testi from './components/testi'
 import Game from './components/game'
 import axios from 'axios'
 
-const word_list='http://localhost:3001/words'
 
 class App2 extends React.Component {
   constructor() {
@@ -24,13 +23,35 @@ class App2 extends React.Component {
   }
   componentDidMount () {
     axios
-      .get(word_list)
+      .get('http://localhost:3001/words')
       .then(response => {
-        console.log(response.data)
-        console.log(word_list)
         this.setState({words:response.data})
       })
-      console.log('mount')
+  }
+  addWord = (event) => {
+    event.preventDefault()
+    const wordObject = {
+      finnish: this.state.finnish,
+      english: this.state.english,
+      russian: this.state.russian,
+      description: this.state.description,
+      id: this.state.words.length +1
+    }
+    axios
+      .post('http://localhost:3001/words', wordObject)
+      .then(response => {
+        this.setState({
+          words:this.state.words.concat(wordObject),
+          finnish: '',
+          russian: '',
+          english: '',
+          description: ''
+        })
+      })
+  }
+  handleFieldChange = (event) => {
+    console.log('hei')
+    this.setState({[event.target.name]:event.target.value})
   }
 
 
@@ -38,10 +59,19 @@ class App2 extends React.Component {
   render() {
     return (
       <div>
-        <div>
+      <div>
+      <form onSubmit={this.addWord}>
+        russian <input value={this.state.russian} onChange={this.handleFieldChange} name="russian" className="russianInput" /><br />
+        finnish <input value={this.state.finnish} onChange={this.handleFieldChange} name="finnish" className="finnishInput" /><br />
+        english <input value={this.state.english} onChange={this.handleFieldChange} name="english" className="englishInput" /><br />
+        description <input value={this.state.description} onChange={this.handleFieldChange} name="description" /><br />
+        <button type="submit">insert word</button>
+      </form>
+      </div>
+        <div className="content">
         <table>
           <tbody>
-            {this.state.words.map(word => <tr key={word.id}><td><Word word={word} language={this.state.translateFrom} /></td><td><Word word={word} language={this.state.translateTo} /></td></tr>)}
+            {this.state.words.map(word => <tr className="element" key={word.id}><td><Word word={word} language={this.state.translateFrom} /></td><td><Word word={word} language={this.state.translateTo} /></td></tr>)}
           </tbody>
         </table>
 

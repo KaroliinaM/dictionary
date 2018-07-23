@@ -393,7 +393,7 @@
       "id": 56
     },
     {
-      "finnish": "huomata",
+      "finnish": "arvata",
       "english": "",
       "russian": "угадывать",
       "description": "",
@@ -827,7 +827,7 @@
       "id": 118
     },
     {
-      "finnish": "karkea",
+      "finnish": "moukkamainen",
       "english": "",
       "russian": "пошлый",
       "description": "",
@@ -1219,7 +1219,7 @@
       "id": 174
     },
     {
-      "finnish": "lähestyä",
+      "finnish": "mennä luokse",
       "english": "",
       "russian": "подходить",
       "description": "",
@@ -1343,6 +1343,370 @@
       "russian": "побывать",
       "description": "",
       "id": 192
+    },
+    {
+      "finnish": "ristikkäinen",
+      "english": "",
+      "russian": "решётчатый",
+      "description": "",
+      "id": 193
+    },
+    {
+      "finnish": "kohota",
+      "english": "",
+      "russian": "возвышаться",
+      "description": "",
+      "id": 194
+    },
+    {
+      "finnish": "kaiku",
+      "english": "",
+      "russian": "эхо",
+      "description": "",
+      "id": 195
+    },
+    {
+      "finnish": "synnyttää",
+      "english": "",
+      "russian": "породить",
+      "description": "",
+      "id": 196
+    },
+    {
+      "finnish": "lauma",
+      "english": "",
+      "russian": "стадо",
+      "description": "",
+      "id": 197
+    },
+    {
+      "finnish": "pimeys",
+      "english": "",
+      "russian": "тьма",
+      "description": "",
+      "id": 198
+    },
+    {
+      "finnish": "vaeltaa",
+      "english": "",
+      "russian": "брести",
+      "description": "",
+      "id": 199
+    },
+    {
+      "finnish": "esi-isä",
+      "english": "",
+      "russian": "предок",
+      "description": "",
+      "id": 200
+    },
+    {
+      "finnish": "maanviljely",
+      "english": "",
+      "russian": "земледелие",
+      "description": "",
+      "id": 201
+    },
+    {
+      "finnish": "karjanhoito",
+      "english": "",
+      "russian": "скотоводство",
+      "description": "",
+      "id": 202
+    },
+    {
+      "finnish": "veistää",
+      "english": "",
+      "russian": "вырезать",
+      "description": "",
+      "id": 203
+    },
+    {
+      "finnish": "alaston",
+      "english": "",
+      "russian": "голый",
+      "description": "",
+      "id": 204
+    },
+    {
+      "finnish": "takapuoli",
+      "english": "",
+      "russian": "зад",
+      "description": "",
+      "id": 205
+    },
+    {
+      "finnish": "kaavoitus",
+      "english": "",
+      "russian": "планировка",
+      "description": "",
+      "id": 206
+    },
+    {
+      "finnish": "taajama",
+      "english": "",
+      "russian": "посёлок",
+      "description": "",
+      "id": 207
+    },
+    {
+      "finnish": "suunnata",
+      "english": "",
+      "russian": "ориентировать",
+      "description": "",
+      "id": 208
+    },
+    {
+      "finnish": "veltto",
+      "english": "",
+      "russian": "вялый",
+      "description": "",
+      "id": 209
+    },
+    {
+      "finnish": "näkyä",
+      "english": "",
+      "russian": "виднеться",
+      "description": "",
+      "id": 210
+    },
+    {
+      "finnish": "keinahdella",
+      "english": "",
+      "russian": "покачиваться",
+      "description": "",
+      "id": 211
+    },
+    {
+      "finnish": "saappaanvarsi",
+      "english": "",
+      "russian": "голенище",
+      "description": "",
+      "id": 212
+    },
+    {
+      "finnish": "syleillä",
+      "english": "",
+      "russian": "обнимать",
+      "description": "",
+      "id": 213
+    },
+    {
+      "finnish": "päästä pois",
+      "english": "",
+      "russian": "выбраться",
+      "description": "",
+      "id": 214
+    },
+    {
+      "finnish": "älyllinen",
+      "english": "",
+      "russian": "умственный",
+      "description": "",
+      "id": 215
+    },
+    {
+      "finnish": "kiinnittyä",
+      "english": "",
+      "russian": "облепить",
+      "description": "",
+      "id": 216
+    },
+    {
+      "finnish": "verkkokalvo",
+      "english": "",
+      "russian": "сетчатка",
+      "description": "",
+      "id": 217
+    },
+    {
+      "finnish": "nöyryyttävä",
+      "english": "",
+      "russian": "унизительный",
+      "description": "",
+      "id": 218
+    },
+    {
+      "finnish": "korreloida",
+      "english": "",
+      "russian": "соотносить",
+      "description": "",
+      "id": 219
+    },
+    {
+      "finnish": "liekki",
+      "english": "",
+      "russian": "пламя",
+      "description": "",
+      "id": 220
+    },
+    {
+      "finnish": "säiliö",
+      "english": "",
+      "russian": "бак",
+      "description": "",
+      "id": 221
+    },
+    {
+      "finnish": "röyhtäisy",
+      "english": "",
+      "russian": "отрыжка",
+      "description": "",
+      "id": 222
+    },
+    {
+      "finnish": "raakunta",
+      "english": "",
+      "russian": "карканье",
+      "description": "",
+      "id": 223
+    },
+    {
+      "finnish": "kylläinen",
+      "english": "",
+      "russian": "сытый",
+      "description": "",
+      "id": 224
+    },
+    {
+      "finnish": "merkki",
+      "english": "",
+      "russian": "примета",
+      "description": "",
+      "id": 225
+    },
+    {
+      "finnish": "mainittu",
+      "english": "",
+      "russian": "упомянутый",
+      "description": "",
+      "id": 226
+    },
+    {
+      "finnish": "tavoite",
+      "english": "",
+      "russian": "стремление",
+      "description": "",
+      "id": 227
+    },
+    {
+      "finnish": "vapautua",
+      "english": "",
+      "russian": "избавиться",
+      "description": "",
+      "id": 228
+    },
+    {
+      "finnish": "rymistä",
+      "english": "",
+      "russian": "грохотать",
+      "description": "",
+      "id": 229
+    },
+    {
+      "finnish": "ura",
+      "english": "",
+      "russian": "колея",
+      "description": "",
+      "id": 230
+    },
+    {
+      "finnish": "tasoittaa",
+      "english": "",
+      "russian": "накатать",
+      "description": "",
+      "id": 231
+    },
+    {
+      "finnish": "keino",
+      "english": "",
+      "russian": "способ",
+      "description": "",
+      "id": 232
+    },
+    {
+      "finnish": "myöntää",
+      "english": "",
+      "russian": "сознаться",
+      "description": "",
+      "id": 233
+    },
+    {
+      "finnish": "yksinkertaisesti",
+      "english": "",
+      "russian": "попросту",
+      "description": "",
+      "id": 234
+    },
+    {
+      "finnish": "järki",
+      "english": "",
+      "russian": "рассудок",
+      "description": "",
+      "id": 235
+    },
+    {
+      "finnish": "taipuvainen",
+      "english": "",
+      "russian": "склонный",
+      "description": "",
+      "id": 236
+    },
+    {
+      "finnish": "tavoittamaton",
+      "english": "",
+      "russian": "недоступный",
+      "description": "",
+      "id": 237
+    },
+    {
+      "finnish": "huippu",
+      "english": "",
+      "russian": "вершина",
+      "description": "",
+      "id": 238
+    },
+    {
+      "finnish": "tuntea",
+      "english": "",
+      "russian": "ощутить",
+      "description": "",
+      "id": 239
+    },
+    {
+      "finnish": "painoton",
+      "english": "",
+      "russian": "невесомый",
+      "description": "",
+      "id": 240
+    },
+    {
+      "finnish": "sietämätön",
+      "english": "",
+      "russian": "невыносимый",
+      "description": "",
+      "id": 241
+    },
+    {
+      "finnish": "kiinnostaa",
+      "english": "",
+      "russian": "наплевать",
+      "description": "",
+      "id": 242
+    },
+    {
+      "finnish": "ehtiä",
+      "english": "",
+      "russian": "успеть",
+      "description": "",
+      "id": 243
+    },
+    {
+      "finnish": "ilveily",
+      "english": "",
+      "russian": "выходка",
+      "description": "",
+      "id": 244
     }
   ],
   "memorygame": [
@@ -1350,580 +1714,980 @@
       "id": 1,
       "mwords": [
         {
-          "id": 1,
-          "guess": 23
+          "id": 244,
+          "guess": 0
         },
         {
-          "id": 2,
-          "guess": 18
+          "id": 231,
+          "guess": 0
         },
         {
-          "id": 3,
-          "guess": 17
+          "id": 230,
+          "guess": 0
         },
         {
-          "id": 4,
-          "guess": 17
+          "id": 242,
+          "guess": 0
         },
         {
-          "id": 5,
-          "guess": 17
+          "id": 241,
+          "guess": 0
         },
         {
-          "id": 6,
-          "guess": 17
+          "id": 240,
+          "guess": 1
         },
         {
-          "id": 7,
-          "guess": 17
+          "id": 239,
+          "guess": 0
         },
         {
-          "id": 8,
-          "guess": 17
+          "id": 238,
+          "guess": 1
         },
         {
-          "id": 9,
-          "guess": 17
+          "id": 237,
+          "guess": 0
         },
         {
-          "id": 10,
-          "guess": 17
+          "id": 236,
+          "guess": 0
         },
         {
-          "id": 11,
-          "guess": 17
+          "id": 235,
+          "guess": 1
         },
         {
-          "id": 12,
-          "guess": 17
+          "id": 234,
+          "guess": 0
         },
         {
-          "id": 13,
-          "guess": 16
+          "id": 233,
+          "guess": 0
         },
         {
-          "id": 14,
-          "guess": 17
+          "id": 229,
+          "guess": 0
         },
         {
-          "id": 15,
-          "guess": 17
+          "id": 228,
+          "guess": 0
         },
         {
-          "id": 16,
-          "guess": 17
+          "id": 227,
+          "guess": 0
         },
         {
-          "id": 17,
-          "guess": 17
+          "id": 226,
+          "guess": 0
         },
         {
-          "id": 18,
-          "guess": 17
+          "id": 225,
+          "guess": 0
         },
         {
-          "id": 19,
-          "guess": 17
+          "id": 223,
+          "guess": 0
         },
         {
-          "id": 20,
-          "guess": 17
+          "id": 222,
+          "guess": 0
         },
         {
-          "id": 21,
-          "guess": 17
+          "id": 221,
+          "guess": 0
         },
         {
-          "id": 22,
-          "guess": 17
+          "id": 220,
+          "guess": 0
         },
         {
-          "id": 23,
-          "guess": 17
+          "id": 219,
+          "guess": 0
         },
         {
-          "id": 24,
-          "guess": 17
+          "id": 218,
+          "guess": 0
         },
         {
-          "id": 25,
-          "guess": 17
+          "id": 217,
+          "guess": 0
         },
         {
-          "id": 26,
-          "guess": 16
+          "id": 216,
+          "guess": 0
         },
         {
-          "id": 27,
-          "guess": 16
+          "id": 215,
+          "guess": 0
         },
         {
-          "id": 28,
-          "guess": 16
+          "id": 214,
+          "guess": 0
         },
         {
-          "id": 29,
-          "guess": 16
+          "id": 213,
+          "guess": 0
         },
         {
-          "id": 30,
-          "guess": 16
+          "id": 212,
+          "guess": 0
         },
         {
-          "id": 31,
-          "guess": 16
+          "id": 211,
+          "guess": 0
         },
         {
-          "id": 32,
-          "guess": 16
+          "id": 210,
+          "guess": 0
         },
         {
-          "id": 33,
-          "guess": 16
+          "id": 208,
+          "guess": 0
         },
         {
-          "id": 34,
-          "guess": 16
+          "id": 207,
+          "guess": 0
         },
         {
-          "id": 35,
-          "guess": 16
+          "id": 206,
+          "guess": 0
         },
         {
-          "id": 36,
-          "guess": 16
+          "id": 205,
+          "guess": 0
         },
         {
-          "id": 37,
-          "guess": 17
+          "id": 203,
+          "guess": 0
         },
         {
-          "id": 38,
-          "guess": 17
+          "id": 202,
+          "guess": 0
         },
         {
-          "id": 39,
-          "guess": 17
+          "id": 201,
+          "guess": 0
         },
         {
-          "id": 40,
-          "guess": 17
+          "id": 200,
+          "guess": 0
         },
         {
-          "id": 41,
-          "guess": 17
+          "id": 199,
+          "guess": 0
         },
         {
-          "id": 42,
-          "guess": 17
+          "id": 197,
+          "guess": 0
         },
         {
-          "id": 43,
-          "guess": 17
+          "id": 196,
+          "guess": 0
         },
         {
-          "id": 44,
-          "guess": 17
+          "id": 194,
+          "guess": 0
         },
         {
-          "id": 45,
-          "guess": 17
+          "id": 173,
+          "guess": 0
         },
         {
-          "id": 46,
-          "guess": 17
+          "id": 193,
+          "guess": 0
         },
         {
-          "id": 47,
-          "guess": 16
+          "id": 243,
+          "guess": 0
         },
         {
-          "id": 48,
-          "guess": 17
+          "id": 204,
+          "guess": 1
         },
         {
-          "id": 49,
-          "guess": 17
+          "id": 209,
+          "guess": 1
         },
         {
-          "id": 50,
-          "guess": 17
+          "id": 198,
+          "guess": 1
         },
         {
-          "id": 51,
-          "guess": 17
+          "id": 232,
+          "guess": 1
         },
         {
-          "id": 52,
-          "guess": 17
+          "id": 224,
+          "guess": 1
         },
         {
-          "id": 53,
-          "guess": 17
-        },
-        {
-          "id": 54,
-          "guess": 17
-        },
-        {
-          "id": 55,
-          "guess": 17
-        },
-        {
-          "id": 56,
-          "guess": 17
-        },
-        {
-          "id": 57,
-          "guess": 17
-        },
-        {
-          "id": 58,
-          "guess": 17
-        },
-        {
-          "id": 59,
-          "guess": 17
-        },
-        {
-          "id": 60,
-          "guess": 17
-        },
-        {
-          "id": 61,
-          "guess": 17
-        },
-        {
-          "id": 62,
-          "guess": 17
-        },
-        {
-          "id": 63,
-          "guess": 17
-        },
-        {
-          "id": 64,
-          "guess": 17
-        },
-        {
-          "id": 65,
-          "guess": 17
-        },
-        {
-          "id": 66,
-          "guess": 17
-        },
-        {
-          "id": 67,
-          "guess": 17
-        },
-        {
-          "id": 68,
-          "guess": 17
-        },
-        {
-          "id": 69,
-          "guess": 17
-        },
-        {
-          "id": 70,
-          "guess": 17
-        },
-        {
-          "id": 71,
-          "guess": 17
-        },
-        {
-          "id": 72,
-          "guess": 17
-        },
-        {
-          "id": 73,
-          "guess": 17
-        },
-        {
-          "id": 74,
-          "guess": 16
-        },
-        {
-          "id": 75,
-          "guess": 16
-        },
-        {
-          "id": 76,
-          "guess": 16
-        },
-        {
-          "id": 77,
-          "guess": 16
-        },
-        {
-          "id": 78,
-          "guess": 16
-        },
-        {
-          "id": 79,
-          "guess": 16
-        },
-        {
-          "id": 80,
-          "guess": 16
-        },
-        {
-          "id": 81,
-          "guess": 16
-        },
-        {
-          "id": 82,
-          "guess": 16
-        },
-        {
-          "id": 83,
-          "guess": 16
-        },
-        {
-          "id": 84,
-          "guess": 16
-        },
-        {
-          "id": 85,
-          "guess": 16
-        },
-        {
-          "id": 86,
-          "guess": 16
-        },
-        {
-          "id": 87,
-          "guess": 16
-        },
-        {
-          "id": 88,
-          "guess": 16
-        },
-        {
-          "id": 89,
-          "guess": 16
-        },
-        {
-          "id": 90,
-          "guess": 16
-        },
-        {
-          "id": 91,
-          "guess": 16
-        },
-        {
-          "id": 92,
-          "guess": 16
-        },
-        {
-          "id": 93,
-          "guess": 16
-        },
-        {
-          "id": 94,
-          "guess": 16
-        },
-        {
-          "id": 95,
-          "guess": 16
-        },
-        {
-          "id": 96,
-          "guess": 16
-        },
-        {
-          "id": 97,
-          "guess": 16
-        },
-        {
-          "id": 98,
-          "guess": 16
-        },
-        {
-          "id": 99,
-          "guess": 16
-        },
-        {
-          "id": 100,
-          "guess": 16
-        },
-        {
-          "id": 101,
-          "guess": 13
-        },
-        {
-          "id": 102,
-          "guess": 16
-        },
-        {
-          "id": 103,
-          "guess": 16
-        },
-        {
-          "id": 104,
-          "guess": 16
-        },
-        {
-          "id": 105,
-          "guess": 16
-        },
-        {
-          "id": 106,
-          "guess": 16
-        },
-        {
-          "id": 107,
-          "guess": 16
-        },
-        {
-          "id": 108,
-          "guess": 16
-        },
-        {
-          "id": 109,
-          "guess": 16
-        },
-        {
-          "id": 110,
-          "guess": 16
-        },
-        {
-          "id": 111,
-          "guess": 16
-        },
-        {
-          "id": 112,
-          "guess": 16
-        },
-        {
-          "id": 113,
-          "guess": 16
-        },
-        {
-          "id": 114,
-          "guess": 10
-        },
-        {
-          "id": 115,
-          "guess": 11
-        },
-        {
-          "id": 116,
-          "guess": 11
-        },
-        {
-          "id": 117,
-          "guess": 13
-        },
-        {
-          "id": 118,
-          "guess": 11
-        },
-        {
-          "id": 119,
-          "guess": 11
-        },
-        {
-          "id": 120,
-          "guess": 11
-        },
-        {
-          "id": 121,
-          "guess": 10
-        },
-        {
-          "id": 122,
-          "guess": 14
-        },
-        {
-          "id": 123,
-          "guess": 12
-        },
-        {
-          "id": 124,
-          "guess": 12
-        },
-        {
-          "id": 125,
-          "guess": 14
-        },
-        {
-          "id": 126,
-          "guess": 9
-        },
-        {
-          "id": 127,
-          "guess": 8
-        },
-        {
-          "id": 128,
-          "guess": 7
-        },
-        {
-          "id": 129,
-          "guess": 6
-        },
-        {
-          "id": 130,
-          "guess": 4
-        },
-        {
-          "id": 131,
-          "guess": 5
-        },
-        {
-          "id": 132,
-          "guess": 6
-        },
-        {
-          "id": 133,
-          "guess": 9
-        },
-        {
-          "id": 134,
-          "guess": 9
-        },
-        {
-          "id": 135,
-          "guess": 9
-        },
-        {
-          "id": 136,
-          "guess": 12
-        },
-        {
-          "id": 137,
-          "guess": 8
-        },
-        {
-          "id": 138,
-          "guess": 11
-        },
-        {
-          "id": 139,
-          "guess": 10
-        },
-        {
-          "id": 140,
-          "guess": 12
-        },
-        {
-          "id": 141,
+          "id": 195,
           "guess": 2
         },
         {
-          "id": 142,
+          "id": 153,
+          "guess": 3
+        },
+        {
+          "id": 158,
+          "guess": 4
+        },
+        {
+          "id": 183,
+          "guess": 4
+        },
+        {
+          "id": 186,
+          "guess": 4
+        },
+        {
+          "id": 192,
+          "guess": 4
+        },
+        {
+          "id": 185,
+          "guess": 5
+        },
+        {
+          "id": 151,
+          "guess": 5
+        },
+        {
+          "id": 141,
+          "guess": 5
+        },
+        {
+          "id": 171,
+          "guess": 7
+        },
+        {
+          "id": 184,
+          "guess": 7
+        },
+        {
+          "id": 178,
+          "guess": 8
+        },
+        {
+          "id": 170,
+          "guess": 8
+        },
+        {
+          "id": 188,
+          "guess": 8
+        },
+        {
+          "id": 167,
+          "guess": 8
+        },
+        {
+          "id": 146,
+          "guess": 8
+        },
+        {
+          "id": 148,
+          "guess": 9
+        },
+        {
+          "id": 166,
           "guess": 10
         },
         {
-          "id": 143,
+          "id": 163,
+          "guess": 11
+        },
+        {
+          "id": 179,
+          "guess": 11
+        },
+        {
+          "id": 149,
+          "guess": 11
+        },
+        {
+          "id": 176,
+          "guess": 12
+        },
+        {
+          "id": 191,
+          "guess": 12
+        },
+        {
+          "id": 152,
+          "guess": 13
+        },
+        {
+          "id": 168,
+          "guess": 13
+        },
+        {
+          "id": 154,
+          "guess": 13
+        },
+        {
+          "id": 150,
+          "guess": 13
+        },
+        {
+          "id": 189,
+          "guess": 13
+        },
+        {
+          "id": 147,
+          "guess": 13
+        },
+        {
+          "id": 160,
           "guess": 14
         },
         {
+          "id": 159,
+          "guess": 14
+        },
+        {
+          "id": 130,
+          "guess": 14
+        },
+        {
+          "id": 157,
+          "guess": 14
+        },
+        {
+          "id": 156,
+          "guess": 14
+        },
+        {
+          "id": 155,
+          "guess": 14
+        },
+        {
+          "id": 165,
+          "guess": 14
+        },
+        {
+          "id": 172,
+          "guess": 14
+        },
+        {
+          "id": 164,
+          "guess": 14
+        },
+        {
+          "id": 174,
+          "guess": 14
+        },
+        {
+          "id": 162,
+          "guess": 14
+        },
+        {
+          "id": 175,
+          "guess": 14
+        },
+        {
+          "id": 161,
+          "guess": 14
+        },
+        {
+          "id": 177,
+          "guess": 14
+        },
+        {
+          "id": 187,
+          "guess": 14
+        },
+        {
+          "id": 182,
+          "guess": 14
+        },
+        {
+          "id": 145,
+          "guess": 14
+        },
+        {
+          "id": 181,
+          "guess": 14
+        },
+        {
+          "id": 180,
+          "guess": 14
+        },
+        {
+          "id": 190,
+          "guess": 15
+        },
+        {
+          "id": 169,
+          "guess": 15
+        },
+        {
+          "id": 70,
+          "guess": 18
+        },
+        {
+          "id": 104,
+          "guess": 19
+        },
+        {
+          "id": 105,
+          "guess": 19
+        },
+        {
+          "id": 106,
+          "guess": 19
+        },
+        {
+          "id": 107,
+          "guess": 19
+        },
+        {
+          "id": 108,
+          "guess": 19
+        },
+        {
+          "id": 109,
+          "guess": 19
+        },
+        {
+          "id": 110,
+          "guess": 19
+        },
+        {
+          "id": 111,
+          "guess": 19
+        },
+        {
+          "id": 112,
+          "guess": 19
+        },
+        {
+          "id": 4,
+          "guess": 19
+        },
+        {
+          "id": 114,
+          "guess": 19
+        },
+        {
+          "id": 5,
+          "guess": 19
+        },
+        {
+          "id": 6,
+          "guess": 19
+        },
+        {
+          "id": 7,
+          "guess": 19
+        },
+        {
+          "id": 8,
+          "guess": 19
+        },
+        {
+          "id": 9,
+          "guess": 19
+        },
+        {
+          "id": 10,
+          "guess": 19
+        },
+        {
+          "id": 11,
+          "guess": 19
+        },
+        {
+          "id": 123,
+          "guess": 19
+        },
+        {
+          "id": 13,
+          "guess": 19
+        },
+        {
+          "id": 124,
+          "guess": 19
+        },
+        {
+          "id": 125,
+          "guess": 19
+        },
+        {
+          "id": 126,
+          "guess": 19
+        },
+        {
+          "id": 127,
+          "guess": 19
+        },
+        {
+          "id": 128,
+          "guess": 19
+        },
+        {
+          "id": 129,
+          "guess": 19
+        },
+        {
+          "id": 14,
+          "guess": 19
+        },
+        {
+          "id": 131,
+          "guess": 19
+        },
+        {
+          "id": 132,
+          "guess": 19
+        },
+        {
+          "id": 133,
+          "guess": 19
+        },
+        {
+          "id": 134,
+          "guess": 19
+        },
+        {
+          "id": 135,
+          "guess": 19
+        },
+        {
+          "id": 136,
+          "guess": 19
+        },
+        {
+          "id": 15,
+          "guess": 19
+        },
+        {
+          "id": 138,
+          "guess": 19
+        },
+        {
+          "id": 139,
+          "guess": 19
+        },
+        {
+          "id": 140,
+          "guess": 19
+        },
+        {
+          "id": 16,
+          "guess": 19
+        },
+        {
+          "id": 142,
+          "guess": 19
+        },
+        {
+          "id": 143,
+          "guess": 19
+        },
+        {
           "id": 144,
-          "guess": 9
+          "guess": 19
+        },
+        {
+          "id": 17,
+          "guess": 19
+        },
+        {
+          "id": 18,
+          "guess": 19
+        },
+        {
+          "id": 19,
+          "guess": 19
+        },
+        {
+          "id": 20,
+          "guess": 19
+        },
+        {
+          "id": 21,
+          "guess": 19
+        },
+        {
+          "id": 22,
+          "guess": 19
+        },
+        {
+          "id": 23,
+          "guess": 19
+        },
+        {
+          "id": 24,
+          "guess": 19
+        },
+        {
+          "id": 25,
+          "guess": 19
+        },
+        {
+          "id": 26,
+          "guess": 19
+        },
+        {
+          "id": 27,
+          "guess": 19
+        },
+        {
+          "id": 28,
+          "guess": 19
+        },
+        {
+          "id": 29,
+          "guess": 19
+        },
+        {
+          "id": 30,
+          "guess": 19
+        },
+        {
+          "id": 31,
+          "guess": 19
+        },
+        {
+          "id": 32,
+          "guess": 19
+        },
+        {
+          "id": 33,
+          "guess": 19
+        },
+        {
+          "id": 34,
+          "guess": 19
+        },
+        {
+          "id": 35,
+          "guess": 19
+        },
+        {
+          "id": 36,
+          "guess": 19
+        },
+        {
+          "id": 37,
+          "guess": 19
+        },
+        {
+          "id": 38,
+          "guess": 19
+        },
+        {
+          "id": 39,
+          "guess": 19
+        },
+        {
+          "id": 40,
+          "guess": 19
+        },
+        {
+          "id": 41,
+          "guess": 19
+        },
+        {
+          "id": 42,
+          "guess": 19
+        },
+        {
+          "id": 43,
+          "guess": 19
+        },
+        {
+          "id": 44,
+          "guess": 19
+        },
+        {
+          "id": 45,
+          "guess": 19
+        },
+        {
+          "id": 46,
+          "guess": 19
+        },
+        {
+          "id": 47,
+          "guess": 19
+        },
+        {
+          "id": 48,
+          "guess": 19
+        },
+        {
+          "id": 49,
+          "guess": 19
+        },
+        {
+          "id": 50,
+          "guess": 19
+        },
+        {
+          "id": 51,
+          "guess": 19
+        },
+        {
+          "id": 52,
+          "guess": 19
+        },
+        {
+          "id": 53,
+          "guess": 19
+        },
+        {
+          "id": 54,
+          "guess": 19
+        },
+        {
+          "id": 55,
+          "guess": 19
+        },
+        {
+          "id": 56,
+          "guess": 19
+        },
+        {
+          "id": 57,
+          "guess": 19
+        },
+        {
+          "id": 58,
+          "guess": 19
+        },
+        {
+          "id": 59,
+          "guess": 19
+        },
+        {
+          "id": 60,
+          "guess": 19
+        },
+        {
+          "id": 61,
+          "guess": 19
+        },
+        {
+          "id": 62,
+          "guess": 19
+        },
+        {
+          "id": 63,
+          "guess": 19
+        },
+        {
+          "id": 64,
+          "guess": 19
+        },
+        {
+          "id": 65,
+          "guess": 19
+        },
+        {
+          "id": 66,
+          "guess": 19
+        },
+        {
+          "id": 67,
+          "guess": 19
+        },
+        {
+          "id": 68,
+          "guess": 19
+        },
+        {
+          "id": 69,
+          "guess": 19
+        },
+        {
+          "id": 3,
+          "guess": 19
+        },
+        {
+          "id": 71,
+          "guess": 19
+        },
+        {
+          "id": 72,
+          "guess": 19
+        },
+        {
+          "id": 73,
+          "guess": 19
+        },
+        {
+          "id": 74,
+          "guess": 19
+        },
+        {
+          "id": 75,
+          "guess": 19
+        },
+        {
+          "id": 76,
+          "guess": 19
+        },
+        {
+          "id": 77,
+          "guess": 19
+        },
+        {
+          "id": 78,
+          "guess": 19
+        },
+        {
+          "id": 79,
+          "guess": 19
+        },
+        {
+          "id": 80,
+          "guess": 19
+        },
+        {
+          "id": 81,
+          "guess": 19
+        },
+        {
+          "id": 82,
+          "guess": 19
+        },
+        {
+          "id": 83,
+          "guess": 19
+        },
+        {
+          "id": 84,
+          "guess": 19
+        },
+        {
+          "id": 85,
+          "guess": 19
+        },
+        {
+          "id": 86,
+          "guess": 19
+        },
+        {
+          "id": 87,
+          "guess": 19
+        },
+        {
+          "id": 88,
+          "guess": 19
+        },
+        {
+          "id": 89,
+          "guess": 19
+        },
+        {
+          "id": 90,
+          "guess": 19
+        },
+        {
+          "id": 91,
+          "guess": 19
+        },
+        {
+          "id": 92,
+          "guess": 19
+        },
+        {
+          "id": 93,
+          "guess": 19
+        },
+        {
+          "id": 94,
+          "guess": 19
+        },
+        {
+          "id": 95,
+          "guess": 19
+        },
+        {
+          "id": 96,
+          "guess": 19
+        },
+        {
+          "id": 97,
+          "guess": 19
+        },
+        {
+          "id": 98,
+          "guess": 19
+        },
+        {
+          "id": 99,
+          "guess": 19
+        },
+        {
+          "id": 100,
+          "guess": 19
+        },
+        {
+          "id": 101,
+          "guess": 19
+        },
+        {
+          "id": 102,
+          "guess": 19
+        },
+        {
+          "id": 103,
+          "guess": 19
+        },
+        {
+          "id": 118,
+          "guess": 20
+        },
+        {
+          "id": 137,
+          "guess": 20
+        },
+        {
+          "id": 122,
+          "guess": 20
+        },
+        {
+          "id": 121,
+          "guess": 20
+        },
+        {
+          "id": 120,
+          "guess": 20
+        },
+        {
+          "id": 119,
+          "guess": 20
+        },
+        {
+          "id": 2,
+          "guess": 20
+        },
+        {
+          "id": 117,
+          "guess": 20
+        },
+        {
+          "id": 116,
+          "guess": 20
+        },
+        {
+          "id": 115,
+          "guess": 20
+        },
+        {
+          "id": 113,
+          "guess": 20
+        },
+        {
+          "id": 12,
+          "guess": 20
+        },
+        {
+          "id": 1,
+          "guess": 34
         }
       ]
     }

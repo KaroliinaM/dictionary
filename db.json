@@ -2022,6 +2022,167 @@
       "russian": "определить",
       "description": "",
       "id": 289
+    },
+    {
+      "finnish": "nousta(kaupunki)",
+      "english": "",
+      "russian": "возникать",
+      "description": "",
+      "id": 290
+    },
+    {
+      "finnish": "käytös",
+      "english": "",
+      "russian": "поведение",
+      "description": "",
+      "id": 291
+    },
+    {
+      "finnish": "huvittaa",
+      "english": "",
+      "russian": "забавлять",
+      "description": "",
+      "id": 292
+    },
+    {
+      "finnish": "röyhkeä",
+      "english": "",
+      "russian": "нахальный",
+      "description": "",
+      "id": 293
+    },
+    {
+      "finnish": "riita",
+      "english": "",
+      "russian": "ссора",
+      "description": "",
+      "id": 294
+    },
+    {
+      "finnish": "pikkuasia",
+      "english": "",
+      "russian": "мелочь",
+      "description": "",
+      "id": 295
+    },
+    {
+      "finnish": "sydänystävä",
+      "english": "",
+      "russian": "закадычный друг",
+      "description": "",
+      "id": 296
+    },
+    {
+      "finnish": "hallita",
+      "english": "",
+      "russian": "обладать",
+      "description": "",
+      "id": 297
+    },
+    {
+      "finnish": "vivahde",
+      "english": "",
+      "russian": "оттенок",
+      "description": "",
+      "id": 298
+    },
+    {
+      "finnish": "rohkaista",
+      "english": "",
+      "russian": "ободрять",
+      "description": "",
+      "id": 299
+    },
+    {
+      "finnish": "puistikko",
+      "english": "",
+      "russian": "сквер",
+      "description": "",
+      "id": 300
+    },
+    {
+      "finnish": "onnistaa",
+      "english": "",
+      "russian": "повезти",
+      "description": "",
+      "id": 301
+    },
+    {
+      "finnish": "raja",
+      "english": "",
+      "russian": "предел",
+      "description": "",
+      "id": 302
+    },
+    {
+      "finnish": "siirtyä",
+      "english": "",
+      "russian": "переместиться",
+      "description": "",
+      "id": 303
+    },
+    {
+      "finnish": "tapahtuma",
+      "english": "",
+      "russian": "мероприятие",
+      "description": "",
+      "id": 304
+    },
+    {
+      "finnish": "kokoelma",
+      "english": "",
+      "russian": "сборник",
+      "description": "",
+      "id": 305
+    },
+    {
+      "finnish": "oikeutus",
+      "english": "",
+      "russian": "оправдание",
+      "description": "",
+      "id": 306
+    },
+    {
+      "finnish": "työllistyä",
+      "english": "",
+      "russian": "устроиться",
+      "description": "",
+      "id": 307
+    },
+    {
+      "finnish": "toivottu",
+      "english": "",
+      "russian": "желанный",
+      "description": "",
+      "id": 308
+    },
+    {
+      "finnish": "arkailla",
+      "english": "",
+      "russian": "стесняться",
+      "description": "",
+      "id": 309
+    },
+    {
+      "finnish": "palkankorotus",
+      "english": "",
+      "russian": "прибавка",
+      "description": "",
+      "id": 310
+    },
+    {
+      "finnish": "kielteinen",
+      "english": "",
+      "russian": "отрицательный",
+      "description": "",
+      "id": 311
+    },
+    {
+      "finnish": "hyvinvointi",
+      "english": "",
+      "russian": "благополучие",
+      "description": "",
+      "id": 312
     }
   ],
   "memorygame": [
@@ -2030,7 +2191,7 @@
       "mwords": [
         {
           "id": 1,
-          "guess": 48
+          "guess": 49
         },
         {
           "id": 2,
@@ -3066,7 +3227,7 @@
         },
         {
           "id": 260,
-          "guess": 2
+          "guess": 3
         },
         {
           "id": 261,

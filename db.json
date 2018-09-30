@@ -2183,6 +2183,139 @@
       "russian": "благополучие",
       "description": "",
       "id": 312
+    },
+    {
+      "finnish": "kunnallinen",
+      "english": "",
+      "russian": "муниципальный",
+      "description": "",
+      "id": 313
+    },
+    {
+      "finnish": "osasto",
+      "english": "",
+      "russian": "отделение",
+      "description": "",
+      "id": 314
+    },
+    {
+      "finnish": "hallinto",
+      "english": "",
+      "russian": "управление",
+      "description": "",
+      "id": 315
+    },
+    {
+      "finnish": "selvittää",
+      "english": "",
+      "russian": "выяснить",
+      "description": "",
+      "id": 316
+    },
+    {
+      "finnish": "jakautua",
+      "english": "",
+      "russian": "распределяться",
+      "description": "",
+      "id": 317
+    },
+    {
+      "finnish": "velvollisuus",
+      "english": "",
+      "russian": "обязанность",
+      "description": "",
+      "id": 318
+    },
+    {
+      "finnish": "laajalle levinnyt",
+      "english": "",
+      "russian": "распространённый",
+      "description": "",
+      "id": 319
+    },
+    {
+      "finnish": "silitys",
+      "english": "",
+      "russian": "глаженье",
+      "description": "",
+      "id": 320
+    },
+    {
+      "finnish": "pyykki",
+      "english": "",
+      "russian": "бельё",
+      "description": "",
+      "id": 321
+    },
+    {
+      "finnish": "pieni",
+      "english": "",
+      "russian": "мелкий",
+      "description": "",
+      "id": 322
+    },
+    {
+      "finnish": "turva",
+      "english": "",
+      "russian": "обеспечение",
+      "description": "",
+      "id": 323
+    },
+    {
+      "finnish": "mielenkiintoinen",
+      "english": "",
+      "russian": "любопытный",
+      "description": "",
+      "id": 324
+    },
+    {
+      "finnish": "sallia",
+      "english": "",
+      "russian": "позволять",
+      "description": "",
+      "id": 325
+    },
+    {
+      "finnish": "sairasloma",
+      "english": "",
+      "russian": "больничный",
+      "description": "",
+      "id": 326
+    },
+    {
+      "finnish": "edistää",
+      "english": "",
+      "russian": "способствовать",
+      "description": "",
+      "id": 327
+    },
+    {
+      "finnish": "moskeija",
+      "english": "",
+      "russian": "мечеть",
+      "description": "",
+      "id": 328
+    },
+    {
+      "finnish": "huoneisto",
+      "english": "",
+      "russian": "помещение",
+      "description": "",
+      "id": 329
+    },
+    {
+      "finnish": "uskovainen",
+      "english": "",
+      "russian": "верующий",
+      "description": "",
+      "id": 330
+    },
+    {
+      "finnish": "kynttilä",
+      "english": "",
+      "russian": "свечка",
+      "description": "",
+      "id": 331
     }
   ],
   "memorygame": [
@@ -2191,7 +2324,7 @@
       "mwords": [
         {
           "id": 1,
-          "guess": 53
+          "guess": 54
         },
         {
           "id": 2,
@@ -3435,6 +3568,82 @@
         },
         {
           "id": 312,
+          "guess": 0
+        },
+        {
+          "id": 313,
+          "guess": 0
+        },
+        {
+          "id": 314,
+          "guess": 0
+        },
+        {
+          "id": 315,
+          "guess": 0
+        },
+        {
+          "id": 316,
+          "guess": 0
+        },
+        {
+          "id": 317,
+          "guess": 0
+        },
+        {
+          "id": 318,
+          "guess": 0
+        },
+        {
+          "id": 319,
+          "guess": 0
+        },
+        {
+          "id": 320,
+          "guess": 0
+        },
+        {
+          "id": 321,
+          "guess": 0
+        },
+        {
+          "id": 322,
+          "guess": 0
+        },
+        {
+          "id": 323,
+          "guess": 0
+        },
+        {
+          "id": 324,
+          "guess": 0
+        },
+        {
+          "id": 325,
+          "guess": 0
+        },
+        {
+          "id": 326,
+          "guess": 0
+        },
+        {
+          "id": 327,
+          "guess": 0
+        },
+        {
+          "id": 328,
+          "guess": 0
+        },
+        {
+          "id": 329,
+          "guess": 0
+        },
+        {
+          "id": 330,
+          "guess": 0
+        },
+        {
+          "id": 331,
           "guess": 0
         }
       ]

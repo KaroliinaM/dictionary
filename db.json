@@ -2449,6 +2449,97 @@
       "russian": "взаимопомощь",
       "description": "",
       "id": 350
+    },
+    {
+      "finnish": "jaos",
+      "english": "",
+      "russian": "фракция",
+      "description": "",
+      "id": 351
+    },
+    {
+      "finnish": "vaalikampanja-",
+      "english": "",
+      "russian": "предвыборный",
+      "description": "",
+      "id": 352
+    },
+    {
+      "finnish": "suunta",
+      "english": "",
+      "russian": "направление",
+      "description": "",
+      "id": 353
+    },
+    {
+      "finnish": "toimenpide",
+      "english": "",
+      "russian": "мера",
+      "description": "",
+      "id": 354
+    },
+    {
+      "finnish": "tukahduttaa",
+      "english": "",
+      "russian": "подавлять",
+      "description": "",
+      "id": 355
+    },
+    {
+      "finnish": "positiivinen",
+      "english": "",
+      "russian": "положительный",
+      "description": "",
+      "id": 356
+    },
+    {
+      "finnish": "pitäytyä",
+      "english": "",
+      "russian": "придерживаться",
+      "description": "",
+      "id": 357
+    },
+    {
+      "finnish": "eteneminen",
+      "english": "",
+      "russian": "продвижение",
+      "description": "",
+      "id": 358
+    },
+    {
+      "finnish": "tehdä vaikutus",
+      "english": "",
+      "russian": "импонировать",
+      "description": "",
+      "id": 359
+    },
+    {
+      "finnish": "palautus",
+      "english": "",
+      "russian": "восстановление",
+      "description": "",
+      "id": 360
+    },
+    {
+      "finnish": "kotimainen",
+      "english": "",
+      "russian": "отечественный",
+      "description": "",
+      "id": 361
+    },
+    {
+      "finnish": "jako",
+      "english": "",
+      "russian": "разделение",
+      "description": "",
+      "id": 362
+    },
+    {
+      "finnish": "oikeudenmukainen",
+      "english": "",
+      "russian": "справедливый",
+      "description": "",
+      "id": 363
     }
   ],
   "memorygame": [

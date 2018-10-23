@@ -2540,6 +2540,76 @@
       "russian": "справедливый",
       "description": "",
       "id": 363
+    },
+    {
+      "finnish": "yritystoiminta",
+      "english": "",
+      "russian": "предпринимательство",
+      "description": "",
+      "id": 364
+    },
+    {
+      "finnish": "julkaista",
+      "english": "",
+      "russian": "выпускать",
+      "description": "",
+      "id": 365
+    },
+    {
+      "finnish": "antaa",
+      "english": "",
+      "russian": "предоставить",
+      "description": "",
+      "id": 366
+    },
+    {
+      "finnish": "varustaminen",
+      "english": "",
+      "russian": "оборудование",
+      "description": "",
+      "id": 367
+    },
+    {
+      "finnish": "kaivos",
+      "english": "",
+      "russian": "горный",
+      "description": "",
+      "id": 368
+    },
+    {
+      "finnish": "tiedustelu(sota)",
+      "english": "",
+      "russian": "разведка",
+      "description": "",
+      "id": 369
+    },
+    {
+      "finnish": "louhinta",
+      "english": "",
+      "russian": "добыча",
+      "description": "",
+      "id": 370
+    },
+    {
+      "finnish": "myynti",
+      "english": "",
+      "russian": "сбыт",
+      "description": "",
+      "id": 371
+    },
+    {
+      "finnish": "vilja",
+      "english": "",
+      "russian": "зерно",
+      "description": "",
+      "id": 372
+    },
+    {
+      "finnish": "elintarvike-",
+      "english": "",
+      "russian": "продовольственный",
+      "description": "",
+      "id": 373
     }
   ],
   "memorygame": [

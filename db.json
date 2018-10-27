@@ -2610,6 +2610,62 @@
       "russian": "продовольственный",
       "description": "",
       "id": 373
+    },
+    {
+      "finnish": "hyväksyä",
+      "english": "",
+      "russian": "принять",
+      "description": "",
+      "id": 374
+    },
+    {
+      "finnish": "anomus",
+      "english": "",
+      "russian": "заявление",
+      "description": "",
+      "id": 375
+    },
+    {
+      "finnish": "arvioida(määrää)",
+      "english": "",
+      "russian": "посчитать",
+      "description": "",
+      "id": 376
+    },
+    {
+      "finnish": "harkita",
+      "english": "",
+      "russian": "учитывать",
+      "description": "",
+      "id": 377
+    },
+    {
+      "finnish": "murre",
+      "english": "",
+      "russian": "наречие",
+      "description": "",
+      "id": 378
+    },
+    {
+      "finnish": "ennennäkemätön",
+      "english": "",
+      "russian": "беспрецедентный",
+      "description": "",
+      "id": 379
+    },
+    {
+      "finnish": "pelätä(tapahtumaa)",
+      "english": "",
+      "russian": "опасаться",
+      "description": "",
+      "id": 380
+    },
+    {
+      "finnish": "vahvistus",
+      "english": "",
+      "russian": "аттестация",
+      "description": "",
+      "id": 381
     }
   ],
   "memorygame": [

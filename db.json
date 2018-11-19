@@ -2799,6 +2799,20 @@
       "russian": "повысить",
       "description": "",
       "id": 400
+    },
+    {
+      "finnish": "osuus",
+      "english": "",
+      "russian": "доля",
+      "description": "",
+      "id": 401
+    },
+    {
+      "finnish": "suhteellinen",
+      "english": "",
+      "russian": "относительный",
+      "description": "",
+      "id": 402
     }
   ],
   "memorygame": [
@@ -2807,7 +2821,7 @@
       "mwords": [
         {
           "id": 1,
-          "guess": 70
+          "guess": 74
         },
         {
           "id": 2,
@@ -4151,7 +4165,7 @@
         },
         {
           "id": 337,
-          "guess": 0
+          "guess": 2
         },
         {
           "id": 338,
@@ -4223,7 +4237,7 @@
         },
         {
           "id": 355,
-          "guess": 1
+          "guess": 2
         },
         {
           "id": 356,
@@ -4255,23 +4269,23 @@
         },
         {
           "id": 363,
-          "guess": 0
-        },
-        {
-          "id": 364,
           "guess": 1
         },
         {
+          "id": 364,
+          "guess": 2
+        },
+        {
           "id": 365,
-          "guess": 0
+          "guess": 1
         },
         {
           "id": 366,
-          "guess": 0
+          "guess": 1
         },
         {
           "id": 367,
-          "guess": 0
+          "guess": 1
         },
         {
           "id": 368,
@@ -4283,15 +4297,15 @@
         },
         {
           "id": 370,
-          "guess": 0
+          "guess": 1
         },
         {
           "id": 371,
-          "guess": 0
+          "guess": 1
         },
         {
           "id": 372,
-          "guess": 0
+          "guess": 2
         },
         {
           "id": 373,
@@ -4299,7 +4313,7 @@
         },
         {
           "id": 374,
-          "guess": 0
+          "guess": 1
         },
         {
           "id": 375,
@@ -4307,7 +4321,7 @@
         },
         {
           "id": 376,
-          "guess": 0
+          "guess": 1
         },
         {
           "id": 377,
@@ -4315,11 +4329,11 @@
         },
         {
           "id": 378,
-          "guess": 0
+          "guess": 1
         },
         {
           "id": 379,
-          "guess": 0
+          "guess": 1
         },
         {
           "id": 380,
@@ -4339,11 +4353,11 @@
         },
         {
           "id": 384,
-          "guess": 0
+          "guess": 1
         },
         {
           "id": 385,
-          "guess": 0
+          "guess": 1
         },
         {
           "id": 386,
@@ -4367,7 +4381,7 @@
         },
         {
           "id": 391,
-          "guess": 0
+          "guess": 1
         },
         {
           "id": 392,
@@ -4395,7 +4409,7 @@
         },
         {
           "id": 398,
-          "guess": 0
+          "guess": 1
         },
         {
           "id": 399,

@@ -2813,6 +2813,20 @@
       "russian": "относительный",
       "description": "",
       "id": 402
+    },
+    {
+      "finnish": "aktiviteetti",
+      "english": "",
+      "russian": "деятельность",
+      "description": "",
+      "id": 403
+    },
+    {
+      "finnish": "taistella",
+      "english": "",
+      "russian": "бороться",
+      "description": "",
+      "id": 404
     }
   ],
   "memorygame": [
@@ -2821,7 +2835,7 @@
       "mwords": [
         {
           "id": 1,
-          "guess": 74
+          "guess": 75
         },
         {
           "id": 2,
@@ -4393,7 +4407,7 @@
         },
         {
           "id": 394,
-          "guess": 0
+          "guess": 1
         },
         {
           "id": 395,
@@ -4417,6 +4431,22 @@
         },
         {
           "id": 400,
+          "guess": 1
+        },
+        {
+          "id": 401,
+          "guess": 0
+        },
+        {
+          "id": 402,
+          "guess": 0
+        },
+        {
+          "id": 403,
+          "guess": 0
+        },
+        {
+          "id": 404,
           "guess": 1
         }
       ]

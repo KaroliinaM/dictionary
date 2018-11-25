@@ -2827,6 +2827,69 @@
       "russian": "бороться",
       "description": "",
       "id": 404
+    },
+    {
+      "finnish": "hurrikaani",
+      "english": "",
+      "russian": "ураган",
+      "description": "",
+      "id": 405
+    },
+    {
+      "finnish": "tulva",
+      "english": "",
+      "russian": "наводнение",
+      "description": "",
+      "id": 406
+    },
+    {
+      "finnish": "sukupuutto",
+      "english": "",
+      "russian": "вымирание",
+      "description": "",
+      "id": 407
+    },
+    {
+      "finnish": "kasvi",
+      "english": "",
+      "russian": "растение",
+      "description": "",
+      "id": 408
+    },
+    {
+      "finnish": "maaperä",
+      "english": "",
+      "russian": "почва",
+      "description": "",
+      "id": 409
+    },
+    {
+      "finnish": "aukko",
+      "english": "",
+      "russian": "дыра",
+      "description": "",
+      "id": 410
+    },
+    {
+      "finnish": "sulaminen(pois)",
+      "english": "",
+      "russian": "таяние",
+      "description": "",
+      "id": 411
+    },
+    {
+      "finnish": "jäätikkö",
+      "english": "",
+      "russian": "ледник",
+      "description": "",
+      "id": 412
+    },
+    {
+      "finnish": "kuivuus",
+      "english": "",
+      "russian": "засуха",
+      "description": "",
+      "id": 413
     }
   ],
   "memorygame": [

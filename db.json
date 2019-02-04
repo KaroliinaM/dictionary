@@ -4189,7 +4189,7 @@
     {
       "finnish": "lavantauti",
       "english": "",
-      "russian": "брюшно́й тиф",
+      "russian": "брюшнoй тиф",
       "description": "",
       "id": 599
     },
@@ -4220,6 +4220,167 @@
       "russian": "разборчивый",
       "description": "",
       "id": 603
+    },
+    {
+      "finnish": "kaatosade",
+      "english": "",
+      "russian": "ливень",
+      "description": "",
+      "id": 604
+    },
+    {
+      "finnish": "kinos",
+      "english": "",
+      "russian": "сугроб",
+      "description": "",
+      "id": 605
+    },
+    {
+      "finnish": "loppua",
+      "english": "",
+      "russian": "прекратиться",
+      "description": "",
+      "id": 606
+    },
+    {
+      "finnish": "lumityöntekijä",
+      "english": "",
+      "russian": "снегоуборщик",
+      "description": "",
+      "id": 607
+    },
+    {
+      "finnish": "puhdistaa",
+      "english": "",
+      "russian": "очищать",
+      "description": "",
+      "id": 608
+    },
+    {
+      "finnish": "yksikkö",
+      "english": "",
+      "russian": "единица",
+      "description": "",
+      "id": 609
+    },
+    {
+      "finnish": "meteorologi",
+      "english": "",
+      "russian": "синоптик",
+      "description": "",
+      "id": 610
+    },
+    {
+      "finnish": "sataa kaatamalla",
+      "english": "",
+      "russian": "сыпать",
+      "description": "",
+      "id": 611
+    },
+    {
+      "finnish": "pylväs(mittari)",
+      "english": "",
+      "russian": "столбик",
+      "description": "",
+      "id": 612
+    },
+    {
+      "finnish": "tallentaa",
+      "english": "",
+      "russian": "зафиксировать",
+      "description": "",
+      "id": 613
+    },
+    {
+      "finnish": "ikuistaa",
+      "english": "",
+      "russian": "запечатлеть",
+      "description": "",
+      "id": 614
+    },
+    {
+      "finnish": "näky",
+      "english": "",
+      "russian": "зрелище",
+      "description": "",
+      "id": 615
+    },
+    {
+      "finnish": "kahlita",
+      "english": "",
+      "russian": "сковать",
+      "description": "",
+      "id": 616
+    },
+    {
+      "finnish": "väkevä",
+      "english": "",
+      "russian": "мощный",
+      "description": "",
+      "id": 617
+    },
+    {
+      "finnish": "jäädyttää",
+      "english": "",
+      "russian": "замёрзнуть",
+      "description": "",
+      "id": 618
+    },
+    {
+      "finnish": "otos(valokuva)",
+      "english": "",
+      "russian": "кадр",
+      "description": "",
+      "id": 619
+    },
+    {
+      "finnish": "lumoava",
+      "english": "",
+      "russian": "завораживающий",
+      "description": "",
+      "id": 620
+    },
+    {
+      "finnish": "lahjoitus",
+      "english": "",
+      "russian": "пожертвование",
+      "description": "",
+      "id": 621
+    },
+    {
+      "finnish": "pienituloinen",
+      "english": "",
+      "russian": "малоимущий",
+      "description": "",
+      "id": 622
+    },
+    {
+      "finnish": "menot",
+      "english": "",
+      "russian": "расходы",
+      "description": "",
+      "id": 623
+    },
+    {
+      "finnish": "horjuttaa",
+      "english": "",
+      "russian": "подрывать",
+      "description": "",
+      "id": 624
+    },
+    {
+      "finnish": "kasautua",
+      "english": "",
+      "russian": "накопиться",
+      "description": "",
+      "id": 625
+    },
+    {
+      "finnish": "(ajankohdan)kynnys",
+      "english": "",
+      "russian": "преддверие",
+      "description": "",
+      "id": 626
     }
   ],
   "memorygame": [
@@ -4228,7 +4389,7 @@
       "mwords": [
         {
           "id": 1,
-          "guess": 97
+          "guess": 104
         },
         {
           "id": 2,
@@ -6408,7 +6569,7 @@
         },
         {
           "id": 546,
-          "guess": 1
+          "guess": 2
         },
         {
           "id": 547,
@@ -6436,7 +6597,7 @@
         },
         {
           "id": 553,
-          "guess": 0
+          "guess": 1
         },
         {
           "id": 554,
@@ -6444,7 +6605,7 @@
         },
         {
           "id": 555,
-          "guess": 0
+          "guess": 1
         },
         {
           "id": 556,
@@ -6456,7 +6617,7 @@
         },
         {
           "id": 558,
-          "guess": 0
+          "guess": 1
         },
         {
           "id": 559,
@@ -6468,26 +6629,174 @@
         },
         {
           "id": 561,
-          "guess": 0
+          "guess": 1
         },
         {
           "id": 562,
-          "guess": 0
+          "guess": 1
         },
         {
           "id": 563,
-          "guess": 0
+          "guess": 1
         },
         {
           "id": 564,
-          "guess": 0
+          "guess": 1
         },
         {
           "id": 565,
-          "guess": 0
+          "guess": 1
         },
         {
           "id": 566,
+          "guess": 1
+        },
+        {
+          "id": 567,
+          "guess": 1
+        },
+        {
+          "id": 568,
+          "guess": 1
+        },
+        {
+          "id": 569,
+          "guess": 1
+        },
+        {
+          "id": 570,
+          "guess": 1
+        },
+        {
+          "id": 571,
+          "guess": 1
+        },
+        {
+          "id": 572,
+          "guess": 1
+        },
+        {
+          "id": 573,
+          "guess": 1
+        },
+        {
+          "id": 574,
+          "guess": 0
+        },
+        {
+          "id": 575,
+          "guess": 1
+        },
+        {
+          "id": 576,
+          "guess": 1
+        },
+        {
+          "id": 577,
+          "guess": 0
+        },
+        {
+          "id": 578,
+          "guess": 1
+        },
+        {
+          "id": 579,
+          "guess": 1
+        },
+        {
+          "id": 580,
+          "guess": 1
+        },
+        {
+          "id": 581,
+          "guess": 1
+        },
+        {
+          "id": 582,
+          "guess": 1
+        },
+        {
+          "id": 583,
+          "guess": 1
+        },
+        {
+          "id": 584,
+          "guess": 0
+        },
+        {
+          "id": 585,
+          "guess": 1
+        },
+        {
+          "id": 586,
+          "guess": 1
+        },
+        {
+          "id": 587,
+          "guess": 0
+        },
+        {
+          "id": 588,
+          "guess": 0
+        },
+        {
+          "id": 589,
+          "guess": 0
+        },
+        {
+          "id": 590,
+          "guess": 1
+        },
+        {
+          "id": 591,
+          "guess": 0
+        },
+        {
+          "id": 592,
+          "guess": 1
+        },
+        {
+          "id": 593,
+          "guess": 0
+        },
+        {
+          "id": 594,
+          "guess": 1
+        },
+        {
+          "id": 595,
+          "guess": 0
+        },
+        {
+          "id": 596,
+          "guess": 0
+        },
+        {
+          "id": 597,
+          "guess": 0
+        },
+        {
+          "id": 598,
+          "guess": 1
+        },
+        {
+          "id": 599,
+          "guess": 0
+        },
+        {
+          "id": 600,
+          "guess": 0
+        },
+        {
+          "id": 601,
+          "guess": 0
+        },
+        {
+          "id": 602,
+          "guess": 0
+        },
+        {
+          "id": 603,
           "guess": 0
         }
       ]

@@ -4189,7 +4189,7 @@
     {
       "finnish": "lavantauti",
       "english": "",
-      "russian": "брюшнoй тиф",
+      "russian": "брюшной тиф",
       "description": "",
       "id": 599
     },
@@ -4381,6 +4381,405 @@
       "russian": "преддверие",
       "description": "",
       "id": 626
+    },
+    {
+      "finnish": "määräysvalta",
+      "english": "",
+      "russian": "распоряжение",
+      "description": "",
+      "id": 627
+    },
+    {
+      "finnish": "irtautua",
+      "english": "",
+      "russian": "отрываться",
+      "description": "",
+      "id": 628
+    },
+    {
+      "finnish": "hämmästynyt",
+      "english": "",
+      "russian": "изумлённый",
+      "description": "",
+      "id": 629
+    },
+    {
+      "finnish": "sopimus",
+      "english": "",
+      "russian": "соглашение",
+      "description": "",
+      "id": 630
+    },
+    {
+      "finnish": "rikkinäinen",
+      "english": "",
+      "russian": "разорённый",
+      "description": "",
+      "id": 631
+    },
+    {
+      "finnish": "pyrkimys",
+      "english": "",
+      "russian": "попытка",
+      "description": "",
+      "id": 632
+    },
+    {
+      "finnish": "tuki",
+      "english": "",
+      "russian": "опора",
+      "description": "",
+      "id": 633
+    },
+    {
+      "finnish": "syöksähtää pois",
+      "english": "",
+      "russian": "шарахнуться",
+      "description": "",
+      "id": 634
+    },
+    {
+      "finnish": "häämöttää",
+      "english": "",
+      "russian": "маячить",
+      "description": "",
+      "id": 635
+    },
+    {
+      "finnish": "kynsi",
+      "english": "",
+      "russian": "коготь",
+      "description": "",
+      "id": 636
+    },
+    {
+      "finnish": "ennakko-",
+      "english": "",
+      "russian": "предварительный",
+      "description": "",
+      "id": 637
+    },
+    {
+      "finnish": "tuotanto",
+      "english": "",
+      "russian": "произведение",
+      "description": "",
+      "id": 638
+    },
+    {
+      "finnish": "näyttely",
+      "english": "",
+      "russian": "экспозиция",
+      "description": "",
+      "id": 639
+    },
+    {
+      "finnish": "maalaus",
+      "english": "",
+      "russian": "полотно",
+      "description": "",
+      "id": 640
+    },
+    {
+      "finnish": "tehostus",
+      "english": "",
+      "russian": "усиление",
+      "description": "",
+      "id": 641
+    },
+    {
+      "finnish": "lisä-",
+      "english": "",
+      "russian": "дополнительный",
+      "description": "",
+      "id": 642
+    },
+    {
+      "finnish": "rakennus",
+      "english": "",
+      "russian": "корпус",
+      "description": "",
+      "id": 643
+    },
+    {
+      "finnish": "varastaa",
+      "english": "",
+      "russian": "украсть",
+      "description": "",
+      "id": 644
+    },
+    {
+      "finnish": "ryöstäjä",
+      "english": "",
+      "russian": "похититель",
+      "description": "",
+      "id": 645
+    },
+    {
+      "finnish": "pidättää",
+      "english": "",
+      "russian": "задержать",
+      "description": "",
+      "id": 646
+    },
+    {
+      "finnish": "lasi",
+      "english": "",
+      "russian": "стекло",
+      "description": "",
+      "id": 647
+    },
+    {
+      "finnish": "vahingoittaa",
+      "english": "",
+      "russian": "повредить",
+      "description": "",
+      "id": 648
+    },
+    {
+      "finnish": "jättää tekemättä",
+      "english": "",
+      "russian": "пропустить",
+      "description": "",
+      "id": 649
+    },
+    {
+      "finnish": "iskulause",
+      "english": "",
+      "russian": "лозунг",
+      "description": "",
+      "id": 650
+    },
+    {
+      "finnish": "kulkue",
+      "english": "",
+      "russian": "шествие",
+      "description": "",
+      "id": 651
+    },
+    {
+      "finnish": "uskomaton",
+      "english": "",
+      "russian": "невероятный",
+      "description": "",
+      "id": 652
+    },
+    {
+      "finnish": "vastuu",
+      "english": "",
+      "russian": "ответственность",
+      "description": "",
+      "id": 653
+    },
+    {
+      "finnish": "salajuoni",
+      "english": "",
+      "russian": "сговор",
+      "description": "",
+      "id": 654
+    },
+    {
+      "finnish": "nostaa",
+      "english": "",
+      "russian": "задирать",
+      "description": "",
+      "id": 655
+    },
+    {
+      "finnish": "ripeästi",
+      "english": "",
+      "russian": "стремительно",
+      "description": "",
+      "id": 656
+    },
+    {
+      "finnish": "itseoppiva",
+      "english": "",
+      "russian": "самообучающийся",
+      "description": "",
+      "id": 657
+    },
+    {
+      "finnish": "kätkeytyä",
+      "english": "",
+      "russian": "крыться",
+      "description": "",
+      "id": 658
+    },
+    {
+      "finnish": "virkamies",
+      "english": "",
+      "russian": "чиновник",
+      "description": "",
+      "id": 659
+    },
+    {
+      "finnish": "avustaa",
+      "english": "",
+      "russian": "облегчить",
+      "description": "",
+      "id": 660
+    },
+    {
+      "finnish": "puristaa",
+      "english": "",
+      "russian": "выжать",
+      "description": "",
+      "id": 661
+    },
+    {
+      "finnish": "liittyä",
+      "english": "",
+      "russian": "вступить",
+      "description": "",
+      "id": 662
+    },
+    {
+      "finnish": "huijata",
+      "english": "",
+      "russian": "обсчитывать",
+      "description": "",
+      "id": 663
+    },
+    {
+      "finnish": "jäljittää",
+      "english": "",
+      "russian": "отследить",
+      "description": "",
+      "id": 664
+    },
+    {
+      "finnish": "pysäyttää",
+      "english": "",
+      "russian": "пресечь",
+      "description": "",
+      "id": 665
+    },
+    {
+      "finnish": "täysillä",
+      "english": "",
+      "russian": "вовсю",
+      "description": "",
+      "id": 666
+    },
+    {
+      "finnish": "asettaa",
+      "english": "",
+      "russian": "устанавливать",
+      "description": "",
+      "id": 667
+    },
+    {
+      "finnish": "kysyntä",
+      "english": "",
+      "russian": "спрос",
+      "description": "",
+      "id": 668
+    },
+    {
+      "finnish": "täynnä",
+      "english": "",
+      "russian": "чреватый",
+      "description": "",
+      "id": 669
+    },
+    {
+      "finnish": "erikseen",
+      "english": "",
+      "russian": "отдельность",
+      "description": "",
+      "id": 670
+    },
+    {
+      "finnish": "varoittaa",
+      "english": "",
+      "russian": "предупреждать",
+      "description": "",
+      "id": 671
+    },
+    {
+      "finnish": "käydä tervehtimässä",
+      "english": "",
+      "russian": "навестить",
+      "description": "",
+      "id": 672
+    },
+    {
+      "finnish": "sattumus",
+      "english": "",
+      "russian": "казус",
+      "description": "",
+      "id": 673
+    },
+    {
+      "finnish": "saattue",
+      "english": "",
+      "russian": "процессия",
+      "description": "",
+      "id": 674
+    },
+    {
+      "finnish": "koppalakki",
+      "english": "",
+      "russian": "картуз",
+      "description": "",
+      "id": 675
+    },
+    {
+      "finnish": "älytä",
+      "english": "",
+      "russian": "сообразить",
+      "description": "",
+      "id": 676
+    },
+    {
+      "finnish": "vetää pois",
+      "english": "",
+      "russian": "сдёрнуть",
+      "description": "",
+      "id": 677
+    },
+    {
+      "finnish": "kunnioitus",
+      "english": "",
+      "russian": "почтение",
+      "description": "",
+      "id": 678
+    },
+    {
+      "finnish": "paljastaa(pää)",
+      "english": "",
+      "russian": "обнажать",
+      "description": "",
+      "id": 679
+    },
+    {
+      "finnish": "nuhtelu",
+      "english": "",
+      "russian": "нагоняй",
+      "description": "",
+      "id": 680
+    },
+    {
+      "finnish": "kohdata",
+      "english": "",
+      "russian": "столкнуться",
+      "description": "",
+      "id": 681
+    },
+    {
+      "finnish": "päällikkyys",
+      "english": "",
+      "russian": "начальство",
+      "description": "",
+      "id": 682
+    },
+    {
+      "finnish": "pokkuroida",
+      "english": "",
+      "russian": "кланяться",
+      "description": "",
+      "id": 683
     }
   ],
   "memorygame": [
@@ -4389,7 +4788,7 @@
       "mwords": [
         {
           "id": 1,
-          "guess": 104
+          "guess": 109
         },
         {
           "id": 2,
@@ -5889,7 +6288,7 @@
         },
         {
           "id": 376,
-          "guess": 3
+          "guess": 4
         },
         {
           "id": 377,
@@ -6041,7 +6440,7 @@
         },
         {
           "id": 414,
-          "guess": 3
+          "guess": 4
         },
         {
           "id": 415,
@@ -6165,7 +6564,7 @@
         },
         {
           "id": 445,
-          "guess": 3
+          "guess": 4
         },
         {
           "id": 446,
@@ -6309,7 +6708,7 @@
         },
         {
           "id": 481,
-          "guess": 3
+          "guess": 4
         },
         {
           "id": 482,
@@ -6337,7 +6736,7 @@
         },
         {
           "id": 488,
-          "guess": 3
+          "guess": 4
         },
         {
           "id": 489,
@@ -6393,7 +6792,7 @@
         },
         {
           "id": 502,
-          "guess": 3
+          "guess": 4
         },
         {
           "id": 503,
@@ -6485,7 +6884,7 @@
         },
         {
           "id": 525,
-          "guess": 3
+          "guess": 4
         },
         {
           "id": 526,
@@ -6569,235 +6968,507 @@
         },
         {
           "id": 546,
-          "guess": 2
+          "guess": 4
         },
         {
           "id": 547,
-          "guess": 1
+          "guess": 4
         },
         {
           "id": 548,
-          "guess": 1
+          "guess": 4
         },
         {
           "id": 549,
-          "guess": 1
+          "guess": 4
         },
         {
           "id": 550,
-          "guess": 1
+          "guess": 4
         },
         {
           "id": 551,
-          "guess": 1
+          "guess": 4
         },
         {
           "id": 552,
-          "guess": 1
+          "guess": 4
         },
         {
           "id": 553,
-          "guess": 1
+          "guess": 3
         },
         {
           "id": 554,
-          "guess": 1
+          "guess": 4
         },
         {
           "id": 555,
-          "guess": 1
+          "guess": 4
         },
         {
           "id": 556,
-          "guess": 1
+          "guess": 4
         },
         {
           "id": 557,
-          "guess": 1
+          "guess": 4
         },
         {
           "id": 558,
-          "guess": 1
+          "guess": 4
         },
         {
           "id": 559,
-          "guess": 1
+          "guess": 4
         },
         {
           "id": 560,
-          "guess": 1
+          "guess": 4
         },
         {
           "id": 561,
-          "guess": 1
+          "guess": 4
         },
         {
           "id": 562,
-          "guess": 1
+          "guess": 4
         },
         {
           "id": 563,
-          "guess": 1
+          "guess": 3
         },
         {
           "id": 564,
-          "guess": 1
+          "guess": 4
         },
         {
           "id": 565,
-          "guess": 1
+          "guess": 4
         },
         {
           "id": 566,
-          "guess": 1
+          "guess": 3
         },
         {
           "id": 567,
-          "guess": 1
+          "guess": 4
         },
         {
           "id": 568,
-          "guess": 1
+          "guess": 4
         },
         {
           "id": 569,
-          "guess": 1
+          "guess": 4
         },
         {
           "id": 570,
-          "guess": 1
+          "guess": 4
         },
         {
           "id": 571,
-          "guess": 1
+          "guess": 4
         },
         {
           "id": 572,
-          "guess": 1
+          "guess": 4
         },
         {
           "id": 573,
-          "guess": 1
+          "guess": 4
         },
         {
           "id": 574,
-          "guess": 0
+          "guess": 4
         },
         {
           "id": 575,
-          "guess": 1
+          "guess": 4
         },
         {
           "id": 576,
-          "guess": 1
+          "guess": 3
         },
         {
           "id": 577,
-          "guess": 0
+          "guess": 4
         },
         {
           "id": 578,
-          "guess": 1
+          "guess": 3
         },
         {
           "id": 579,
-          "guess": 1
+          "guess": 3
         },
         {
           "id": 580,
-          "guess": 1
+          "guess": 3
         },
         {
           "id": 581,
-          "guess": 1
+          "guess": 3
         },
         {
           "id": 582,
-          "guess": 1
+          "guess": 3
         },
         {
           "id": 583,
-          "guess": 1
+          "guess": 3
         },
         {
           "id": 584,
-          "guess": 0
+          "guess": 3
         },
         {
           "id": 585,
-          "guess": 1
+          "guess": 3
         },
         {
           "id": 586,
-          "guess": 1
+          "guess": 3
         },
         {
           "id": 587,
-          "guess": 0
+          "guess": 3
         },
         {
           "id": 588,
-          "guess": 0
+          "guess": 3
         },
         {
           "id": 589,
-          "guess": 0
+          "guess": 3
         },
         {
           "id": 590,
-          "guess": 1
+          "guess": 3
         },
         {
           "id": 591,
-          "guess": 0
+          "guess": 3
         },
         {
           "id": 592,
-          "guess": 1
+          "guess": 3
         },
         {
           "id": 593,
-          "guess": 0
+          "guess": 3
         },
         {
           "id": 594,
-          "guess": 1
+          "guess": 3
         },
         {
           "id": 595,
-          "guess": 0
+          "guess": 3
         },
         {
           "id": 596,
-          "guess": 0
+          "guess": 3
         },
         {
           "id": 597,
-          "guess": 0
+          "guess": 3
         },
         {
           "id": 598,
-          "guess": 1
+          "guess": 3
         },
         {
           "id": 599,
-          "guess": 0
+          "guess": 3
         },
         {
           "id": 600,
-          "guess": 0
+          "guess": 3
         },
         {
           "id": 601,
-          "guess": 0
+          "guess": 3
         },
         {
           "id": 602,
-          "guess": 0
+          "guess": 3
         },
         {
           "id": 603,
-          "guess": 0
+          "guess": 3
+        },
+        {
+          "id": 604,
+          "guess": 3
+        },
+        {
+          "id": 605,
+          "guess": 3
+        },
+        {
+          "id": 606,
+          "guess": 3
+        },
+        {
+          "id": 607,
+          "guess": 3
+        },
+        {
+          "id": 608,
+          "guess": 3
+        },
+        {
+          "id": 609,
+          "guess": 3
+        },
+        {
+          "id": 610,
+          "guess": 3
+        },
+        {
+          "id": 611,
+          "guess": 3
+        },
+        {
+          "id": 612,
+          "guess": 3
+        },
+        {
+          "id": 613,
+          "guess": 3
+        },
+        {
+          "id": 614,
+          "guess": 3
+        },
+        {
+          "id": 615,
+          "guess": 3
+        },
+        {
+          "id": 616,
+          "guess": 3
+        },
+        {
+          "id": 617,
+          "guess": 3
+        },
+        {
+          "id": 618,
+          "guess": 3
+        },
+        {
+          "id": 619,
+          "guess": 3
+        },
+        {
+          "id": 620,
+          "guess": 3
+        },
+        {
+          "id": 621,
+          "guess": 3
+        },
+        {
+          "id": 622,
+          "guess": 3
+        },
+        {
+          "id": 623,
+          "guess": 3
+        },
+        {
+          "id": 624,
+          "guess": 3
+        },
+        {
+          "id": 625,
+          "guess": 3
+        },
+        {
+          "id": 626,
+          "guess": 3
+        },
+        {
+          "id": 627,
+          "guess": 3
+        },
+        {
+          "id": 628,
+          "guess": 3
+        },
+        {
+          "id": 629,
+          "guess": 3
+        },
+        {
+          "id": 630,
+          "guess": 3
+        },
+        {
+          "id": 631,
+          "guess": 3
+        },
+        {
+          "id": 632,
+          "guess": 3
+        },
+        {
+          "id": 633,
+          "guess": 3
+        },
+        {
+          "id": 634,
+          "guess": 3
+        },
+        {
+          "id": 635,
+          "guess": 3
+        },
+        {
+          "id": 636,
+          "guess": 3
+        },
+        {
+          "id": 637,
+          "guess": 3
+        },
+        {
+          "id": 638,
+          "guess": 3
+        },
+        {
+          "id": 639,
+          "guess": 3
+        },
+        {
+          "id": 640,
+          "guess": 3
+        },
+        {
+          "id": 641,
+          "guess": 3
+        },
+        {
+          "id": 642,
+          "guess": 2
+        },
+        {
+          "id": 643,
+          "guess": 3
+        },
+        {
+          "id": 644,
+          "guess": 3
+        },
+        {
+          "id": 645,
+          "guess": 3
+        },
+        {
+          "id": 646,
+          "guess": 3
+        },
+        {
+          "id": 647,
+          "guess": 3
+        },
+        {
+          "id": 648,
+          "guess": 3
+        },
+        {
+          "id": 649,
+          "guess": 3
+        },
+        {
+          "id": 650,
+          "guess": 3
+        },
+        {
+          "id": 651,
+          "guess": 3
+        },
+        {
+          "id": 652,
+          "guess": 3
+        },
+        {
+          "id": 653,
+          "guess": 3
+        },
+        {
+          "id": 654,
+          "guess": 3
+        },
+        {
+          "id": 655,
+          "guess": 3
+        },
+        {
+          "id": 656,
+          "guess": 3
+        },
+        {
+          "id": 657,
+          "guess": 1
+        },
+        {
+          "id": 658,
+          "guess": 3
+        },
+        {
+          "id": 659,
+          "guess": 3
+        },
+        {
+          "id": 660,
+          "guess": 3
+        },
+        {
+          "id": 661,
+          "guess": 3
+        },
+        {
+          "id": 662,
+          "guess": 2
+        },
+        {
+          "id": 663,
+          "guess": 3
+        },
+        {
+          "id": 664,
+          "guess": 3
+        },
+        {
+          "id": 665,
+          "guess": 3
+        },
+        {
+          "id": 666,
+          "guess": 3
+        },
+        {
+          "id": 667,
+          "guess": 3
+        },
+        {
+          "id": 668,
+          "guess": 3
+        },
+        {
+          "id": 669,
+          "guess": 3
+        },
+        {
+          "id": 670,
+          "guess": 3
+        },
+        {
+          "id": 671,
+          "guess": 3
         }
       ]
     }

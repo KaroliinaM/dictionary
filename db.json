@@ -5060,6 +5060,104 @@
       "russian": "оспина",
       "description": "",
       "id": 723
+    },
+    {
+      "finnish": "ikätoveri",
+      "english": "",
+      "russian": "ровесник",
+      "description": "",
+      "id": 724
+    },
+    {
+      "finnish": "säilyttää",
+      "english": "",
+      "russian": "увековечить",
+      "description": "",
+      "id": 725
+    },
+    {
+      "finnish": "kultainen(ajanjakso)",
+      "english": "",
+      "russian": "златой",
+      "description": "",
+      "id": 726
+    },
+    {
+      "finnish": "antelias",
+      "english": "",
+      "russian": "щедрый",
+      "description": "",
+      "id": 727
+    },
+    {
+      "finnish": "oppilaitos",
+      "english": "",
+      "russian": "заведение",
+      "description": "",
+      "id": 728
+    },
+    {
+      "finnish": "jnkn kaltaista",
+      "english": "",
+      "russian": "сродни",
+      "description": "",
+      "id": 729
+    },
+    {
+      "finnish": "valmennus",
+      "english": "",
+      "russian": "подготовка",
+      "description": "",
+      "id": 730
+    },
+    {
+      "finnish": "aikomus",
+      "english": "",
+      "russian": "намерение",
+      "description": "",
+      "id": 731
+    },
+    {
+      "finnish": "toteutua",
+      "english": "",
+      "russian": "осуществляться",
+      "description": "",
+      "id": 732
+    },
+    {
+      "finnish": "olla paikalla",
+      "english": "",
+      "russian": "присутствовать",
+      "description": "",
+      "id": 733
+    },
+    {
+      "finnish": "ilmoitttautua",
+      "english": "",
+      "russian": "зачислить",
+      "description": "",
+      "id": 734
+    },
+    {
+      "finnish": "vakituinen",
+      "english": "",
+      "russian": "безвылазный",
+      "description": "",
+      "id": 735
+    },
+    {
+      "finnish": "sotaväki",
+      "english": "",
+      "russian": "войска",
+      "description": "",
+      "id": 736
+    },
+    {
+      "finnish": "varustelu",
+      "english": "",
+      "russian": "снабжение",
+      "description": "",
+      "id": 737
     }
   ],
   "memorygame": [
@@ -5068,7 +5166,7 @@
       "mwords": [
         {
           "id": 1,
-          "guess": 119
+          "guess": 125
         },
         {
           "id": 2,
@@ -6816,7 +6914,7 @@
         },
         {
           "id": 438,
-          "guess": 6
+          "guess": 7
         },
         {
           "id": 439,
@@ -6864,7 +6962,7 @@
         },
         {
           "id": 450,
-          "guess": 6
+          "guess": 7
         },
         {
           "id": 451,
@@ -6912,7 +7010,7 @@
         },
         {
           "id": 462,
-          "guess": 6
+          "guess": 7
         },
         {
           "id": 463,
@@ -6992,7 +7090,7 @@
         },
         {
           "id": 482,
-          "guess": 6
+          "guess": 7
         },
         {
           "id": 483,
@@ -7016,7 +7114,7 @@
         },
         {
           "id": 488,
-          "guess": 6
+          "guess": 7
         },
         {
           "id": 489,
@@ -7040,11 +7138,11 @@
         },
         {
           "id": 494,
-          "guess": 6
+          "guess": 7
         },
         {
           "id": 495,
-          "guess": 6
+          "guess": 7
         },
         {
           "id": 496,
@@ -7056,7 +7154,7 @@
         },
         {
           "id": 498,
-          "guess": 6
+          "guess": 7
         },
         {
           "id": 499,
@@ -7072,7 +7170,7 @@
         },
         {
           "id": 502,
-          "guess": 6
+          "guess": 7
         },
         {
           "id": 503,
@@ -7236,15 +7334,15 @@
         },
         {
           "id": 543,
-          "guess": 6
+          "guess": 7
         },
         {
           "id": 544,
-          "guess": 6
+          "guess": 7
         },
         {
           "id": 545,
-          "guess": 6
+          "guess": 7
         },
         {
           "id": 546,
@@ -7360,11 +7458,11 @@
         },
         {
           "id": 574,
-          "guess": 6
+          "guess": 7
         },
         {
           "id": 575,
-          "guess": 6
+          "guess": 7
         },
         {
           "id": 576,
@@ -7372,7 +7470,7 @@
         },
         {
           "id": 577,
-          "guess": 6
+          "guess": 7
         },
         {
           "id": 578,
@@ -7380,11 +7478,11 @@
         },
         {
           "id": 579,
-          "guess": 6
+          "guess": 7
         },
         {
           "id": 580,
-          "guess": 6
+          "guess": 7
         },
         {
           "id": 581,
@@ -7392,79 +7490,79 @@
         },
         {
           "id": 582,
-          "guess": 6
+          "guess": 7
         },
         {
           "id": 583,
-          "guess": 6
+          "guess": 7
         },
         {
           "id": 584,
-          "guess": 6
+          "guess": 7
         },
         {
           "id": 585,
-          "guess": 6
+          "guess": 7
         },
         {
           "id": 586,
-          "guess": 6
+          "guess": 7
         },
         {
           "id": 587,
-          "guess": 6
+          "guess": 7
         },
         {
           "id": 588,
-          "guess": 6
+          "guess": 7
         },
         {
           "id": 589,
-          "guess": 6
+          "guess": 7
         },
         {
           "id": 590,
-          "guess": 6
+          "guess": 7
         },
         {
           "id": 591,
-          "guess": 6
+          "guess": 7
         },
         {
           "id": 592,
-          "guess": 6
+          "guess": 7
         },
         {
           "id": 593,
-          "guess": 6
+          "guess": 7
         },
         {
           "id": 594,
-          "guess": 6
+          "guess": 7
         },
         {
           "id": 595,
-          "guess": 6
+          "guess": 7
         },
         {
           "id": 596,
-          "guess": 6
+          "guess": 7
         },
         {
           "id": 597,
-          "guess": 6
+          "guess": 7
         },
         {
           "id": 598,
-          "guess": 6
+          "guess": 7
         },
         {
           "id": 599,
-          "guess": 6
+          "guess": 7
         },
         {
           "id": 600,
-          "guess": 6
+          "guess": 7
         },
         {
           "id": 601,
@@ -7472,67 +7570,67 @@
         },
         {
           "id": 602,
-          "guess": 6
+          "guess": 7
         },
         {
           "id": 603,
-          "guess": 6
+          "guess": 7
         },
         {
           "id": 604,
-          "guess": 6
+          "guess": 7
         },
         {
           "id": 605,
-          "guess": 6
+          "guess": 7
         },
         {
           "id": 606,
-          "guess": 6
+          "guess": 7
         },
         {
           "id": 607,
-          "guess": 6
+          "guess": 7
         },
         {
           "id": 608,
-          "guess": 6
+          "guess": 7
         },
         {
           "id": 609,
-          "guess": 6
+          "guess": 7
         },
         {
           "id": 610,
-          "guess": 6
+          "guess": 7
         },
         {
           "id": 611,
-          "guess": 6
+          "guess": 7
         },
         {
           "id": 612,
-          "guess": 6
+          "guess": 7
         },
         {
           "id": 613,
-          "guess": 6
+          "guess": 7
         },
         {
           "id": 614,
-          "guess": 6
+          "guess": 7
         },
         {
           "id": 615,
-          "guess": 6
+          "guess": 7
         },
         {
           "id": 616,
-          "guess": 6
+          "guess": 7
         },
         {
           "id": 617,
-          "guess": 6
+          "guess": 7
         },
         {
           "id": 618,
@@ -7800,50 +7898,218 @@
         },
         {
           "id": 684,
-          "guess": 2
-        },
-        {
-          "id": 685,
-          "guess": 3
-        },
-        {
-          "id": 686,
-          "guess": 3
-        },
-        {
-          "id": 687,
           "guess": 4
         },
         {
+          "id": 685,
+          "guess": 5
+        },
+        {
+          "id": 686,
+          "guess": 5
+        },
+        {
+          "id": 687,
+          "guess": 6
+        },
+        {
           "id": 688,
-          "guess": 1
+          "guess": 4
         },
         {
           "id": 689,
-          "guess": 1
+          "guess": 3
         },
         {
           "id": 690,
-          "guess": 2
+          "guess": 4
         },
         {
           "id": 691,
-          "guess": 1
+          "guess": 3
         },
         {
           "id": 692,
-          "guess": 2
+          "guess": 4
         },
         {
           "id": 693,
-          "guess": 1
+          "guess": 3
         },
         {
           "id": 694,
-          "guess": 1
+          "guess": 2
         },
         {
           "id": 695,
+          "guess": 3
+        },
+        {
+          "id": 696,
+          "guess": 3
+        },
+        {
+          "id": 697,
+          "guess": 3
+        },
+        {
+          "id": 698,
+          "guess": 3
+        },
+        {
+          "id": 699,
+          "guess": 3
+        },
+        {
+          "id": 700,
+          "guess": 3
+        },
+        {
+          "id": 701,
+          "guess": 3
+        },
+        {
+          "id": 702,
+          "guess": 3
+        },
+        {
+          "id": 703,
+          "guess": 2
+        },
+        {
+          "id": 704,
+          "guess": 3
+        },
+        {
+          "id": 705,
+          "guess": 3
+        },
+        {
+          "id": 706,
+          "guess": 3
+        },
+        {
+          "id": 707,
+          "guess": 3
+        },
+        {
+          "id": 708,
+          "guess": 2
+        },
+        {
+          "id": 709,
+          "guess": 3
+        },
+        {
+          "id": 710,
+          "guess": 3
+        },
+        {
+          "id": 711,
+          "guess": 3
+        },
+        {
+          "id": 712,
+          "guess": 3
+        },
+        {
+          "id": 713,
+          "guess": 1
+        },
+        {
+          "id": 714,
+          "guess": 3
+        },
+        {
+          "id": 715,
+          "guess": 2
+        },
+        {
+          "id": 716,
+          "guess": 3
+        },
+        {
+          "id": 717,
+          "guess": 2
+        },
+        {
+          "id": 718,
+          "guess": 3
+        },
+        {
+          "id": 719,
+          "guess": 1
+        },
+        {
+          "id": 720,
+          "guess": 3
+        },
+        {
+          "id": 721,
+          "guess": 3
+        },
+        {
+          "id": 722,
+          "guess": 3
+        },
+        {
+          "id": 723,
+          "guess": 1
+        },
+        {
+          "id": 724,
+          "guess": 0
+        },
+        {
+          "id": 725,
+          "guess": 0
+        },
+        {
+          "id": 726,
+          "guess": 0
+        },
+        {
+          "id": 727,
+          "guess": 0
+        },
+        {
+          "id": 728,
+          "guess": 0
+        },
+        {
+          "id": 729,
+          "guess": 0
+        },
+        {
+          "id": 730,
+          "guess": 0
+        },
+        {
+          "id": 731,
+          "guess": 0
+        },
+        {
+          "id": 732,
+          "guess": 0
+        },
+        {
+          "id": 733,
+          "guess": 0
+        },
+        {
+          "id": 734,
+          "guess": 0
+        },
+        {
+          "id": 735,
+          "guess": 0
+        },
+        {
+          "id": 736,
+          "guess": 0
+        },
+        {
+          "id": 737,
           "guess": 0
         }
       ]

@@ -5277,6 +5277,258 @@
       "russian": "подвиг",
       "description": "",
       "id": 754
+    },
+    {
+      "finnish": "huudahtaa",
+      "english": "",
+      "russian": "воскликнуть",
+      "description": "",
+      "id": 755
+    },
+    {
+      "finnish": "korvata(joku)",
+      "english": "",
+      "russian": "заменить",
+      "description": "",
+      "id": 756
+    },
+    {
+      "finnish": "ruumisarkku",
+      "english": "",
+      "russian": "гроб",
+      "description": "",
+      "id": 757
+    },
+    {
+      "finnish": "siunata",
+      "english": "",
+      "russian": "благословить",
+      "description": "",
+      "id": 758
+    },
+    {
+      "finnish": "läsnäolo",
+      "english": "",
+      "russian": "присутствие",
+      "description": "",
+      "id": 759
+    },
+    {
+      "finnish": "elävöittää",
+      "english": "",
+      "russian": "оживиться",
+      "description": "",
+      "id": 760
+    },
+    {
+      "finnish": "muuttua",
+      "english": "",
+      "russian": "преображаться",
+      "description": "",
+      "id": 761
+    },
+    {
+      "finnish": "tietenkin",
+      "english": "",
+      "russian": "разумеется",
+      "description": "",
+      "id": 762
+    },
+    {
+      "finnish": "alinomaa",
+      "english": "",
+      "russian": "поминутно",
+      "description": "",
+      "id": 763
+    },
+    {
+      "finnish": "eloisuus",
+      "english": "",
+      "russian": "живость",
+      "description": "",
+      "id": 764
+    },
+    {
+      "finnish": "kuvailla",
+      "english": "",
+      "russian": "описать",
+      "description": "",
+      "id": 765
+    },
+    {
+      "finnish": "kasvuikäinen",
+      "english": "",
+      "russian": "отроческий",
+      "description": "",
+      "id": 766
+    },
+    {
+      "finnish": "soi",
+      "english": "",
+      "russian": "зазвенеть",
+      "description": "",
+      "id": 767
+    },
+    {
+      "finnish": "hurmaava",
+      "english": "",
+      "russian": "упоительный",
+      "description": "",
+      "id": 768
+    },
+    {
+      "finnish": "harkitsevainen",
+      "english": "",
+      "russian": "рассудительный",
+      "description": "",
+      "id": 769
+    },
+    {
+      "finnish": "arvostus",
+      "english": "",
+      "russian": "уважение",
+      "description": "",
+      "id": 770
+    },
+    {
+      "finnish": "väliseinä",
+      "english": "",
+      "russian": "перегородка",
+      "description": "",
+      "id": 771
+    },
+    {
+      "finnish": "nukkumaanmeno",
+      "english": "",
+      "russian": "отбой",
+      "description": "",
+      "id": 772
+    },
+    {
+      "finnish": "mielipaha",
+      "english": "",
+      "russian": "огорчение",
+      "description": "",
+      "id": 773
+    },
+    {
+      "finnish": "tapella",
+      "english": "",
+      "russian": "драться",
+      "description": "",
+      "id": 774
+    },
+    {
+      "finnish": "kiusata",
+      "english": "",
+      "russian": "дразнить",
+      "description": "",
+      "id": 775
+    },
+    {
+      "finnish": "apina",
+      "english": "",
+      "russian": "обезьяна",
+      "description": "",
+      "id": 776
+    },
+    {
+      "finnish": "lempinimi",
+      "english": "",
+      "russian": "прозвище",
+      "description": "",
+      "id": 777
+    },
+    {
+      "finnish": "mielikuvitus",
+      "english": "",
+      "russian": "воображение",
+      "description": "",
+      "id": 778
+    },
+    {
+      "finnish": "horjumaton",
+      "english": "",
+      "russian": "неколебимый",
+      "description": "",
+      "id": 779
+    },
+    {
+      "finnish": "huoleton",
+      "english": "",
+      "russian": "беспечный",
+      "description": "",
+      "id": 780
+    },
+    {
+      "finnish": "suoja",
+      "english": "",
+      "russian": "сень",
+      "description": "",
+      "id": 781
+    },
+    {
+      "finnish": "kömpelö",
+      "english": "",
+      "russian": "нескладный",
+      "description": "",
+      "id": 782
+    },
+    {
+      "finnish": "kiivaus",
+      "english": "",
+      "russian": "вспыльчивость",
+      "description": "",
+      "id": 783
+    },
+    {
+      "finnish": "kohde",
+      "english": "",
+      "russian": "мишень",
+      "description": "",
+      "id": 784
+    },
+    {
+      "finnish": "tuottelias",
+      "english": "",
+      "russian": "плодовитый",
+      "description": "",
+      "id": 785
+    },
+    {
+      "finnish": "teroittaa",
+      "english": "",
+      "russian": "оттачивать",
+      "description": "",
+      "id": 786
+    },
+    {
+      "finnish": "nokkeluus",
+      "english": "",
+      "russian": "остроумие",
+      "description": "",
+      "id": 787
+    },
+    {
+      "finnish": "puhua jonkun puolesta",
+      "english": "",
+      "russian": "заступаться",
+      "description": "",
+      "id": 788
+    },
+    {
+      "finnish": "alkaa",
+      "english": "",
+      "russian": "завязываться",
+      "description": "",
+      "id": 789
+    },
+    {
+      "finnish": "ulkomuistista",
+      "english": "",
+      "russian": "наизусть",
+      "description": "",
+      "id": 790
     }
   ],
   "memorygame": [
@@ -5285,7 +5537,7 @@
       "mwords": [
         {
           "id": 1,
-          "guess": 131
+          "guess": 138
         },
         {
           "id": 2,
@@ -8173,7 +8425,7 @@
         },
         {
           "id": 723,
-          "guess": 3
+          "guess": 4
         },
         {
           "id": 724,
@@ -8205,7 +8457,7 @@
         },
         {
           "id": 731,
-          "guess": 1
+          "guess": 3
         },
         {
           "id": 732,
@@ -8221,7 +8473,7 @@
         },
         {
           "id": 735,
-          "guess": 1
+          "guess": 2
         },
         {
           "id": 736,
@@ -8229,11 +8481,11 @@
         },
         {
           "id": 737,
-          "guess": 1
+          "guess": 3
         },
         {
           "id": 738,
-          "guess": 1
+          "guess": 2
         },
         {
           "id": 739,
@@ -8245,35 +8497,35 @@
         },
         {
           "id": 741,
-          "guess": 1
+          "guess": 2
         },
         {
           "id": 742,
-          "guess": 1
+          "guess": 2
         },
         {
           "id": 743,
-          "guess": 0
+          "guess": 1
         },
         {
           "id": 744,
-          "guess": 0
+          "guess": 2
         },
         {
           "id": 745,
-          "guess": 0
+          "guess": 2
         },
         {
           "id": 746,
-          "guess": 0
+          "guess": 1
         },
         {
           "id": 747,
-          "guess": 0
+          "guess": 1
         },
         {
           "id": 748,
-          "guess": 1
+          "guess": 2
         },
         {
           "id": 749,
@@ -8281,22 +8533,78 @@
         },
         {
           "id": 750,
-          "guess": 0
+          "guess": 1
         },
         {
           "id": 751,
-          "guess": 0
+          "guess": 1
         },
         {
           "id": 752,
-          "guess": 0
+          "guess": 1
         },
         {
           "id": 753,
-          "guess": 0
+          "guess": 2
         },
         {
           "id": 754,
+          "guess": 2
+        },
+        {
+          "id": 755,
+          "guess": 2
+        },
+        {
+          "id": 756,
+          "guess": 1
+        },
+        {
+          "id": 757,
+          "guess": 3
+        },
+        {
+          "id": 758,
+          "guess": 2
+        },
+        {
+          "id": 759,
+          "guess": 2
+        },
+        {
+          "id": 760,
+          "guess": 1
+        },
+        {
+          "id": 761,
+          "guess": 0
+        },
+        {
+          "id": 762,
+          "guess": 2
+        },
+        {
+          "id": 763,
+          "guess": 2
+        },
+        {
+          "id": 764,
+          "guess": 2
+        },
+        {
+          "id": 765,
+          "guess": 1
+        },
+        {
+          "id": 766,
+          "guess": 1
+        },
+        {
+          "id": 767,
+          "guess": 1
+        },
+        {
+          "id": 768,
           "guess": 0
         }
       ]

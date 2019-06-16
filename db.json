@@ -5529,6 +5529,608 @@
       "russian": "наизусть",
       "description": "",
       "id": 790
+    },
+    {
+      "finnish": "rykmentti",
+      "english": "",
+      "russian": "полк",
+      "description": "",
+      "id": 791
+    },
+    {
+      "finnish": "pöyhkeillä",
+      "english": "",
+      "russian": "красоваться",
+      "description": "",
+      "id": 792
+    },
+    {
+      "finnish": "kallista",
+      "english": "",
+      "russian": "накладно",
+      "description": "",
+      "id": 793
+    },
+    {
+      "finnish": "välittömästi",
+      "english": "",
+      "russian": "тотчас",
+      "description": "",
+      "id": 794
+    },
+    {
+      "finnish": "ikävystyttää",
+      "english": "",
+      "russian": "надоесть",
+      "description": "",
+      "id": 795
+    },
+    {
+      "finnish": "sukeltaa",
+      "english": "",
+      "russian": "окунуться",
+      "description": "",
+      "id": 796
+    },
+    {
+      "finnish": "laaja",
+      "english": "",
+      "russian": "обширный",
+      "description": "",
+      "id": 797
+    },
+    {
+      "finnish": "silloin tällöin",
+      "english": "",
+      "russian": "порой",
+      "description": "",
+      "id": 798
+    },
+    {
+      "finnish": "julkea",
+      "english": "",
+      "russian": "вызывающий",
+      "description": "",
+      "id": 799
+    },
+    {
+      "finnish": "paheksunta",
+      "english": "",
+      "russian": "неодобрение",
+      "description": "",
+      "id": 800
+    },
+    {
+      "finnish": "palvelija",
+      "english": "",
+      "russian": "слуга",
+      "description": "",
+      "id": 801
+    },
+    {
+      "finnish": "karkottaa",
+      "english": "",
+      "russian": "прогнать",
+      "description": "",
+      "id": 802
+    },
+    {
+      "finnish": "tiehensä",
+      "english": "",
+      "russian": "прочь",
+      "description": "",
+      "id": 803
+    },
+    {
+      "finnish": "punoutua yhteen",
+      "english": "",
+      "russian": "вплетаться",
+      "description": "",
+      "id": 804
+    },
+    {
+      "finnish": "kansankieli",
+      "english": "",
+      "russian": "просторечие",
+      "description": "",
+      "id": 805
+    },
+    {
+      "finnish": "loukkaus",
+      "english": "",
+      "russian": "оскорбление",
+      "description": "",
+      "id": 806
+    },
+    {
+      "finnish": "kaksintaistelu",
+      "english": "",
+      "russian": "поединок",
+      "description": "",
+      "id": 807
+    },
+    {
+      "finnish": "muutoin",
+      "english": "",
+      "russian": "иначе",
+      "description": "",
+      "id": 808
+    },
+    {
+      "finnish": "pelkuri",
+      "english": "",
+      "russian": "трус",
+      "description": "",
+      "id": 809
+    },
+    {
+      "finnish": "kavaltaa",
+      "english": "",
+      "russian": "предавать",
+      "description": "",
+      "id": 810
+    },
+    {
+      "finnish": "julkisuus",
+      "english": "",
+      "russian": "огласка",
+      "description": "",
+      "id": 811
+    },
+    {
+      "finnish": "joutomaa",
+      "english": "",
+      "russian": "пустырь",
+      "description": "",
+      "id": 812
+    },
+    {
+      "finnish": "ampua",
+      "english": "",
+      "russian": "стрелять",
+      "description": "",
+      "id": 813
+    },
+    {
+      "finnish": "luonteenlaatu",
+      "english": "",
+      "russian": "нрав",
+      "description": "",
+      "id": 814
+    },
+    {
+      "finnish": "haaste",
+      "english": "",
+      "russian": "вызов",
+      "description": "",
+      "id": 815
+    },
+    {
+      "finnish": "kävelykeppi",
+      "english": "",
+      "russian": "трость",
+      "description": "",
+      "id": 816
+    },
+    {
+      "finnish": "väristä",
+      "english": "",
+      "russian": "дрогнуть",
+      "description": "",
+      "id": 817
+    },
+    {
+      "finnish": "suojata",
+      "english": "",
+      "russian": "оберегать",
+      "description": "",
+      "id": 818
+    },
+    {
+      "finnish": "pitäisi",
+      "english": "",
+      "russian": "надобно",
+      "description": "",
+      "id": 819
+    },
+    {
+      "finnish": "hävytön",
+      "english": "",
+      "russian": "возмутительный",
+      "description": "",
+      "id": 820
+    },
+    {
+      "finnish": "karkotus",
+      "english": "",
+      "russian": "ссылка",
+      "description": "",
+      "id": 821
+    },
+    {
+      "finnish": "ankara",
+      "english": "",
+      "russian": "суровый",
+      "description": "",
+      "id": 822
+    },
+    {
+      "finnish": "kohtalo",
+      "english": "",
+      "russian": "участь",
+      "description": "",
+      "id": 823
+    },
+    {
+      "finnish": "epäsuosioon joutunut",
+      "english": "",
+      "russian": "опальный",
+      "description": "",
+      "id": 824
+    },
+    {
+      "finnish": "matkustelu",
+      "english": "",
+      "russian": "странствие",
+      "description": "",
+      "id": 825
+    },
+    {
+      "finnish": "hourailu",
+      "english": "",
+      "russian": "бред",
+      "description": "",
+      "id": 826
+    },
+    {
+      "finnish": "ystävä",
+      "english": "",
+      "russian": "приятель",
+      "description": "",
+      "id": 827
+    },
+    {
+      "finnish": "ratkaistu",
+      "english": "",
+      "russian": "улаженный",
+      "description": "",
+      "id": 828
+    },
+    {
+      "finnish": "epäröinti",
+      "english": "",
+      "russian": "колебание",
+      "description": "",
+      "id": 829
+    },
+    {
+      "finnish": "lähtö",
+      "english": "",
+      "russian": "отъезд",
+      "description": "",
+      "id": 830
+    },
+    {
+      "finnish": "aro",
+      "english": "",
+      "russian": "степь",
+      "description": "",
+      "id": 831
+    },
+    {
+      "finnish": "leikkiä",
+      "english": "",
+      "russian": "шалить",
+      "description": "",
+      "id": 832
+    },
+    {
+      "finnish": "kujeilla",
+      "english": "",
+      "russian": "проказничать",
+      "description": "",
+      "id": 833
+    },
+    {
+      "finnish": "valitus",
+      "english": "",
+      "russian": "жалоба",
+      "description": "",
+      "id": 834
+    },
+    {
+      "finnish": "selvitellä",
+      "english": "",
+      "russian": "уладить",
+      "description": "",
+      "id": 835
+    },
+    {
+      "finnish": "romani-",
+      "english": "",
+      "russian": "цыганский",
+      "description": "",
+      "id": 836
+    },
+    {
+      "finnish": "leiri",
+      "english": "",
+      "russian": "табор",
+      "description": "",
+      "id": 837
+    },
+    {
+      "finnish": "poistua",
+      "english": "",
+      "russian": "отлучаться",
+      "description": "",
+      "id": 838
+    },
+    {
+      "finnish": "vanki",
+      "english": "",
+      "russian": "пленник",
+      "description": "",
+      "id": 839
+    },
+    {
+      "finnish": "neiti",
+      "english": "",
+      "russian": "барышня",
+      "description": "",
+      "id": 840
+    },
+    {
+      "finnish": "ihailija",
+      "english": "",
+      "russian": "поклонник",
+      "description": "",
+      "id": 841
+    },
+    {
+      "finnish": "vastavuoroisuus",
+      "english": "",
+      "russian": "взаимность",
+      "description": "",
+      "id": 842
+    },
+    {
+      "finnish": "luku(kirjan)",
+      "english": "",
+      "russian": "глава",
+      "description": "",
+      "id": 843
+    },
+    {
+      "finnish": "maakunta-",
+      "english": "",
+      "russian": "захолустный",
+      "description": "",
+      "id": 844
+    },
+    {
+      "finnish": "vainota",
+      "english": "",
+      "russian": "преследовать",
+      "description": "",
+      "id": 845
+    },
+    {
+      "finnish": "saivartelu",
+      "english": "",
+      "russian": "придирка",
+      "description": "",
+      "id": 846
+    },
+    {
+      "finnish": "uudelleenkoulutus",
+      "english": "",
+      "russian": "перевоспитание",
+      "description": "",
+      "id": 847
+    },
+    {
+      "finnish": "vaunu",
+      "english": "",
+      "russian": "коляска",
+      "description": "",
+      "id": 848
+    },
+    {
+      "finnish": "tupsahtaa",
+      "english": "",
+      "russian": "свалиться",
+      "description": "",
+      "id": 849
+    },
+    {
+      "finnish": "raportoida",
+      "english": "",
+      "russian": "отчитываться",
+      "description": "",
+      "id": 850
+    },
+    {
+      "finnish": "kimpaantua",
+      "english": "",
+      "russian": "вспылить",
+      "description": "",
+      "id": 851
+    },
+    {
+      "finnish": "tottelematon",
+      "english": "",
+      "russian": "непослушный",
+      "description": "",
+      "id": 852
+    },
+    {
+      "finnish": "munkki",
+      "english": "",
+      "russian": "монах",
+      "description": "",
+      "id": 853
+    },
+    {
+      "finnish": "napata",
+      "english": "",
+      "russian": "прихватить",
+      "description": "",
+      "id": 854
+    },
+    {
+      "finnish": "ohjeistaa",
+      "english": "",
+      "russian": "наставлять",
+      "description": "",
+      "id": 855
+    },
+    {
+      "finnish": "olkinen",
+      "english": "",
+      "russian": "соломенный",
+      "description": "",
+      "id": 856
+    },
+    {
+      "finnish": "painovärjätty puuvilla",
+      "english": "",
+      "russian": "ситцевый",
+      "description": "",
+      "id": 857
+    },
+    {
+      "finnish": "paita",
+      "english": "",
+      "russian": "рубаха",
+      "description": "",
+      "id": 858
+    },
+    {
+      "finnish": "rutiköyhä",
+      "english": "",
+      "russian": "нищий",
+      "description": "",
+      "id": 859
+    },
+    {
+      "finnish": "yllättää",
+      "english": "",
+      "russian": "застать",
+      "description": "",
+      "id": 860
+    },
+    {
+      "finnish": "nousu(valtaan)",
+      "english": "",
+      "russian": "восшествие",
+      "description": "",
+      "id": 861
+    },
+    {
+      "finnish": "kukistaa",
+      "english": "",
+      "russian": "свергнуть",
+      "description": "",
+      "id": 862
+    },
+    {
+      "finnish": "hirttää",
+      "english": "",
+      "russian": "повесить",
+      "description": "",
+      "id": 863
+    },
+    {
+      "finnish": "salaliittolainen",
+      "english": "",
+      "russian": "заговорщик",
+      "description": "",
+      "id": 864
+    },
+    {
+      "finnish": "anoa",
+      "english": "",
+      "russian": "хлопотать",
+      "description": "",
+      "id": 865
+    },
+    {
+      "finnish": "aamunkoi",
+      "english": "",
+      "russian": "рассвет",
+      "description": "",
+      "id": 866
+    },
+    {
+      "finnish": "repaleinen",
+      "english": "",
+      "russian": "растрёпанный",
+      "description": "",
+      "id": 867
+    },
+    {
+      "finnish": "(itkeä)katkerasti",
+      "english": "",
+      "russian": "навзрыд",
+      "description": "",
+      "id": 868
+    },
+    {
+      "finnish": "armahtaa",
+      "english": "",
+      "russian": "помиловать",
+      "description": "",
+      "id": 869
+    },
+    {
+      "finnish": "kumouksellinen",
+      "english": "",
+      "russian": "крамольный",
+      "description": "",
+      "id": 870
+    },
+    {
+      "finnish": "kreivi",
+      "english": "",
+      "russian": "граф",
+      "description": "",
+      "id": 871
+    },
+    {
+      "finnish": "julkaisija",
+      "english": "",
+      "russian": "издатель",
+      "description": "",
+      "id": 872
+    },
+    {
+      "finnish": "ruhtinatar",
+      "english": "",
+      "russian": "княгиня",
+      "description": "",
+      "id": 873
+    },
+    {
+      "finnish": "pakkotyö",
+      "english": "",
+      "russian": "каторга",
+      "description": "",
+      "id": 874
+    },
+    {
+      "finnish": "toimittaa(tavaraa)",
+      "english": "",
+      "russian": "доставить",
+      "description": "",
+      "id": 875
+    },
+    {
+      "finnish": "epäitsekäs",
+      "english": "",
+      "russian": "самоотверженный",
+      "description": "",
+      "id": 876
     }
   ],
   "memorygame": [
@@ -5537,7 +6139,7 @@
       "mwords": [
         {
           "id": 1,
-          "guess": 138
+          "guess": 147
         },
         {
           "id": 2,
@@ -8453,7 +9055,7 @@
         },
         {
           "id": 730,
-          "guess": 2
+          "guess": 3
         },
         {
           "id": 731,
@@ -8485,19 +9087,19 @@
         },
         {
           "id": 738,
-          "guess": 2
+          "guess": 3
         },
         {
           "id": 739,
-          "guess": 1
+          "guess": 2
         },
         {
           "id": 740,
-          "guess": 1
+          "guess": 2
         },
         {
           "id": 741,
-          "guess": 2
+          "guess": 3
         },
         {
           "id": 742,
@@ -8505,11 +9107,11 @@
         },
         {
           "id": 743,
-          "guess": 1
+          "guess": 3
         },
         {
           "id": 744,
-          "guess": 2
+          "guess": 3
         },
         {
           "id": 745,
@@ -8517,23 +9119,23 @@
         },
         {
           "id": 746,
-          "guess": 1
-        },
-        {
-          "id": 747,
-          "guess": 1
-        },
-        {
-          "id": 748,
           "guess": 2
         },
         {
+          "id": 747,
+          "guess": 2
+        },
+        {
+          "id": 748,
+          "guess": 3
+        },
+        {
           "id": 749,
-          "guess": 1
+          "guess": 3
         },
         {
           "id": 750,
-          "guess": 1
+          "guess": 2
         },
         {
           "id": 751,
@@ -8541,7 +9143,7 @@
         },
         {
           "id": 752,
-          "guess": 1
+          "guess": 3
         },
         {
           "id": 753,
@@ -8549,7 +9151,7 @@
         },
         {
           "id": 754,
-          "guess": 2
+          "guess": 3
         },
         {
           "id": 755,
@@ -8577,7 +9179,7 @@
         },
         {
           "id": 761,
-          "guess": 0
+          "guess": 2
         },
         {
           "id": 762,
@@ -8593,7 +9195,7 @@
         },
         {
           "id": 765,
-          "guess": 1
+          "guess": 3
         },
         {
           "id": 766,
@@ -8601,10 +9203,442 @@
         },
         {
           "id": 767,
-          "guess": 1
+          "guess": 3
         },
         {
           "id": 768,
+          "guess": 3
+        },
+        {
+          "id": 769,
+          "guess": 2
+        },
+        {
+          "id": 770,
+          "guess": 2
+        },
+        {
+          "id": 771,
+          "guess": 2
+        },
+        {
+          "id": 772,
+          "guess": 2
+        },
+        {
+          "id": 773,
+          "guess": 2
+        },
+        {
+          "id": 774,
+          "guess": 2
+        },
+        {
+          "id": 775,
+          "guess": 2
+        },
+        {
+          "id": 776,
+          "guess": 2
+        },
+        {
+          "id": 777,
+          "guess": 2
+        },
+        {
+          "id": 778,
+          "guess": 2
+        },
+        {
+          "id": 779,
+          "guess": 2
+        },
+        {
+          "id": 780,
+          "guess": 2
+        },
+        {
+          "id": 781,
+          "guess": 2
+        },
+        {
+          "id": 782,
+          "guess": 2
+        },
+        {
+          "id": 783,
+          "guess": 2
+        },
+        {
+          "id": 784,
+          "guess": 2
+        },
+        {
+          "id": 785,
+          "guess": 2
+        },
+        {
+          "id": 786,
+          "guess": 2
+        },
+        {
+          "id": 787,
+          "guess": 2
+        },
+        {
+          "id": 788,
+          "guess": 1
+        },
+        {
+          "id": 789,
+          "guess": 2
+        },
+        {
+          "id": 790,
+          "guess": 2
+        },
+        {
+          "id": 791,
+          "guess": 2
+        },
+        {
+          "id": 792,
+          "guess": 2
+        },
+        {
+          "id": 793,
+          "guess": 2
+        },
+        {
+          "id": 794,
+          "guess": 2
+        },
+        {
+          "id": 795,
+          "guess": 2
+        },
+        {
+          "id": 796,
+          "guess": 2
+        },
+        {
+          "id": 797,
+          "guess": 2
+        },
+        {
+          "id": 798,
+          "guess": 2
+        },
+        {
+          "id": 799,
+          "guess": 1
+        },
+        {
+          "id": 800,
+          "guess": 1
+        },
+        {
+          "id": 801,
+          "guess": 2
+        },
+        {
+          "id": 802,
+          "guess": 2
+        },
+        {
+          "id": 803,
+          "guess": 2
+        },
+        {
+          "id": 804,
+          "guess": 1
+        },
+        {
+          "id": 805,
+          "guess": 2
+        },
+        {
+          "id": 806,
+          "guess": 1
+        },
+        {
+          "id": 807,
+          "guess": 2
+        },
+        {
+          "id": 808,
+          "guess": 2
+        },
+        {
+          "id": 809,
+          "guess": 2
+        },
+        {
+          "id": 810,
+          "guess": 1
+        },
+        {
+          "id": 811,
+          "guess": 0
+        },
+        {
+          "id": 812,
+          "guess": 1
+        },
+        {
+          "id": 813,
+          "guess": 2
+        },
+        {
+          "id": 814,
+          "guess": 2
+        },
+        {
+          "id": 815,
+          "guess": 2
+        },
+        {
+          "id": 816,
+          "guess": 2
+        },
+        {
+          "id": 817,
+          "guess": 2
+        },
+        {
+          "id": 818,
+          "guess": 0
+        },
+        {
+          "id": 819,
+          "guess": 0
+        },
+        {
+          "id": 820,
+          "guess": 2
+        },
+        {
+          "id": 821,
+          "guess": 2
+        },
+        {
+          "id": 822,
+          "guess": 2
+        },
+        {
+          "id": 823,
+          "guess": 2
+        },
+        {
+          "id": 824,
+          "guess": 2
+        },
+        {
+          "id": 825,
+          "guess": 1
+        },
+        {
+          "id": 826,
+          "guess": 2
+        },
+        {
+          "id": 827,
+          "guess": 0
+        },
+        {
+          "id": 828,
+          "guess": 1
+        },
+        {
+          "id": 829,
+          "guess": 0
+        },
+        {
+          "id": 830,
+          "guess": 2
+        },
+        {
+          "id": 831,
+          "guess": 2
+        },
+        {
+          "id": 832,
+          "guess": 2
+        },
+        {
+          "id": 833,
+          "guess": 0
+        },
+        {
+          "id": 834,
+          "guess": 2
+        },
+        {
+          "id": 835,
+          "guess": 0
+        },
+        {
+          "id": 836,
+          "guess": 1
+        },
+        {
+          "id": 837,
+          "guess": 2
+        },
+        {
+          "id": 838,
+          "guess": 0
+        },
+        {
+          "id": 839,
+          "guess": 1
+        },
+        {
+          "id": 840,
+          "guess": 2
+        },
+        {
+          "id": 841,
+          "guess": 1
+        },
+        {
+          "id": 842,
+          "guess": 2
+        },
+        {
+          "id": 843,
+          "guess": 2
+        },
+        {
+          "id": 844,
+          "guess": 0
+        },
+        {
+          "id": 845,
+          "guess": 0
+        },
+        {
+          "id": 846,
+          "guess": 2
+        },
+        {
+          "id": 847,
+          "guess": 2
+        },
+        {
+          "id": 848,
+          "guess": 2
+        },
+        {
+          "id": 849,
+          "guess": 0
+        },
+        {
+          "id": 850,
+          "guess": 0
+        },
+        {
+          "id": 851,
+          "guess": 0
+        },
+        {
+          "id": 852,
+          "guess": 0
+        },
+        {
+          "id": 853,
+          "guess": 2
+        },
+        {
+          "id": 854,
+          "guess": 0
+        },
+        {
+          "id": 855,
+          "guess": 0
+        },
+        {
+          "id": 856,
+          "guess": 2
+        },
+        {
+          "id": 857,
+          "guess": 0
+        },
+        {
+          "id": 858,
+          "guess": 2
+        },
+        {
+          "id": 859,
+          "guess": 2
+        },
+        {
+          "id": 860,
+          "guess": 0
+        },
+        {
+          "id": 861,
+          "guess": 0
+        },
+        {
+          "id": 862,
+          "guess": 0
+        },
+        {
+          "id": 863,
+          "guess": 1
+        },
+        {
+          "id": 864,
+          "guess": 2
+        },
+        {
+          "id": 865,
+          "guess": 0
+        },
+        {
+          "id": 866,
+          "guess": 2
+        },
+        {
+          "id": 867,
+          "guess": 1
+        },
+        {
+          "id": 868,
+          "guess": 0
+        },
+        {
+          "id": 869,
+          "guess": 2
+        },
+        {
+          "id": 870,
+          "guess": 0
+        },
+        {
+          "id": 871,
+          "guess": 2
+        },
+        {
+          "id": 872,
+          "guess": 0
+        },
+        {
+          "id": 873,
+          "guess": 0
+        },
+        {
+          "id": 874,
+          "guess": 1
+        },
+        {
+          "id": 875,
+          "guess": 0
+        },
+        {
+          "id": 876,
           "guess": 0
         }
       ]
